@@ -1,0 +1,161 @@
+,date,tournament,level,bestOf,surface,indoor,round,winner_name,winner_seed,winner_country_name,winner_country_id,winner_rank,winner_eloRatingDelta,winner_eloRating,loser_name,loser_country_name,loser_country_id,loser_rank,loser_eloRatingDelta,loser_eloRating,score,loser_seed,loser_entry,speed,outcome,winner_entry,Unnamed: 0,OpponentId
+0,5/22/22,Roland Garros,G,5,C,False,QF,RAFAEL NADAL,5.0,Spain,ESP,5,14.0,2371,Novak Djokovic,Serbia,SRB,1.0,-14.0,2381,6-2 4-6 6-2 7-6(4),1.0,,,,,84,n409
+1,5/9/21,Rome Masters,M,3,C,False,F,RAFAEL NADAL,2.0,Spain,ESP,2,14.0,2362,Novak Djokovic,Serbia,SRB,1.0,-13.0,2395,7-5 1-6 6-3,1.0,,43.0,,,84,n409
+2,9/28/20,Roland Garros,G,5,C,False,F,RAFAEL NADAL,1.0,Spain,ESP,2,18.0,2394,Novak Djokovic,Serbia,SRB,1.0,-18.0,2442,6-0 6-2 7-5,2.0,,30.0,,,84,n409
+3,5/13/19,Rome Masters,M,3,C,False,F,RAFAEL NADAL,2.0,Spain,ESP,2,14.0,2365,Novak Djokovic,Serbia,SRB,1.0,-13.0,2403,6-0 4-6 6-1,1.0,,47.0,,,84,n409
+4,5/14/18,Rome Masters,M,3,C,False,SF,RAFAEL NADAL,1.0,Spain,ESP,2,10.0,2368,Novak Djokovic,Serbia,SRB,18.0,-9.0,2331,7-6(4) 6-3,11.0,,51.0,,,84,n409
+5,5/8/17,Madrid Masters,M,3,C,False,SF,RAFAEL NADAL,4.0,Spain,ESP,5,16.0,2325,Novak Djokovic,Serbia,SRB,2.0,-16.0,2478,6-2 6-4,2.0,,65.0,,,84,n409
+6,5/26/14,Roland Garros,G,5,C,False,F,RAFAEL NADAL,1.0,Spain,ESP,1,19.0,2484,Novak Djokovic,Serbia,SRB,2.0,-19.0,2551,3-6 7-5 6-2 6-4,2.0,,40.0,,,84,n409
+7,8/26/13,US Open,G,5,H,False,F,RAFAEL NADAL,2.0,Spain,ESP,2,13.0,2539,Novak Djokovic,Serbia,SRB,1.0,-13.0,2464,6-2 3-6 6-4 6-1,1.0,,54.0,,,84,n409
+8,8/5/13,Canada Masters,M,3,H,False,SF,RAFAEL NADAL,4.0,Spain,ESP,4,11.0,2506,Novak Djokovic,Serbia,SRB,1.0,-10.0,2479,6-4 3-6 7-6(2),1.0,,53.0,,,84,n409
+9,5/27/13,Roland Garros,G,5,C,False,SF,RAFAEL NADAL,3.0,Spain,ESP,4,14.0,2506,Novak Djokovic,Serbia,SRB,1.0,-13.0,2491,6-4 3-6 6-1 6-7(3) 9-7,1.0,,42.0,,,84,n409
+10,5/27/12,Roland Garros,G,5,C,False,F,RAFAEL NADAL,2.0,Spain,ESP,2,17.0,2462,Novak Djokovic,Serbia,SRB,1.0,-17.0,2478,6-4 6-3 2-6 7-5,1.0,,40.0,,,84,n409
+11,5/13/12,Rome Masters,M,3,C,False,F,RAFAEL NADAL,2.0,Spain,ESP,3,14.0,2430,Novak Djokovic,Serbia,SRB,1.0,-14.0,2469,7-5 6-3,1.0,,32.0,,,84,n409
+12,4/15/12,Monte Carlo Masters,M,3,C,False,F,RAFAEL NADAL,2.0,Spain,ESP,2,15.0,2404,Novak Djokovic,Serbia,SRB,1.0,-15.0,2482,6-3 6-1,1.0,,31.0,,,84,n409
+13,11/21/10,Tour Finals,F,3,H,True,RR,RAFAEL NADAL,,Spain,ESP,1,8.0,2405,Novak Djokovic,Serbia,SRB,3.0,-7.0,2302,7-5 6-2,,,90.0,,,84,n409
+14,8/30/10,US Open,G,5,H,False,F,RAFAEL NADAL,1.0,Spain,ESP,1,11.0,2413,Novak Djokovic,Serbia,SRB,3.0,-11.0,2309,6-4 5-7 6-4 6-2,3.0,,65.0,,,84,n409
+15,5/10/09,Madrid Masters,M,3,C,False,SF,RAFAEL NADAL,1.0,Spain,ESP,1,6.0,2481,Novak Djokovic,Serbia,SRB,4.0,-6.0,2310,3-6 7-6(5) 7-6(9),3.0,,56.0,,,84,n409
+16,4/27/09,Rome Masters,M,3,C,False,F,RAFAEL NADAL,1.0,Spain,ESP,1,7.0,2470,Novak Djokovic,Serbia,SRB,3.0,-7.0,2303,7-6(2) 6-2,3.0,,33.0,,,84,n409
+17,4/12/09,Monte Carlo Masters,M,3,C,False,F,RAFAEL NADAL,1.0,Spain,ESP,1,7.0,2446,Novak Djokovic,Serbia,SRB,3.0,-7.0,2283,6-3 2-6 6-1,3.0,,17.0,,,84,n409
+18,3/6/09,Davis Cup WG,D,5,C,False,R16,RAFAEL NADAL,,Spain,ESP,1,5.0,2421,Novak Djokovic,Serbia,SRB,3.0,-5.0,2250,6-4 6-4 6-1,,,,,,84,n409
+19,8/11/08,Beijing Olympics,O,3,H,False,SF,RAFAEL NADAL,2.0,Spain,ESP,2,6.0,2445,Novak Djokovic,Serbia,SRB,3.0,-6.0,2286,6-4 1-6 6-4,3.0,,56.0,,,84,n409
+20,6/9/08,Queen's Club,B,3,G,False,F,RAFAEL NADAL,1.0,Spain,ESP,2,7.0,2405,Novak Djokovic,Serbia,SRB,3.0,-7.0,2299,7-6(6) 7-5,2.0,,78.0,,,84,n409
+21,5/25/08,Roland Garros,G,5,C,False,SF,RAFAEL NADAL,2.0,Spain,ESP,2,12.0,2368,Novak Djokovic,Serbia,SRB,3.0,-12.0,2299,6-4 6-2 7-6(3),3.0,,41.0,,,84,n409
+22,5/11/08,Hamburg Masters,M,3,C,False,SF,RAFAEL NADAL,2.0,Spain,ESP,2,10.0,2332,Novak Djokovic,Serbia,SRB,3.0,-10.0,2297,7-5 2-6 6-2,3.0,,29.0,,,84,n409
+23,11/12/07,Masters Cup,F,3,H,True,RR,RAFAEL NADAL,,Spain,ESP,2,9.0,2326,Novak Djokovic,Serbia,SRB,3.0,-9.0,2257,6-4 6-4,,,55.0,,,84,n409
+24,6/25/07,Wimbledon,G,5,G,False,SF,RAFAEL NADAL,2.0,Spain,ESP,2,7.0,2403,Novak Djokovic,Serbia,SRB,5.0,-8.0,2213,3-6 6-1 4-1 RET,4.0,,73.0,RET,,84,n409
+25,5/28/07,Roland Garros,G,5,C,False,SF,RAFAEL NADAL,2.0,Spain,ESP,2,7.0,2374,Novak Djokovic,Serbia,SRB,6.0,-7.0,2198,7-5 6-4 6-2,6.0,,38.0,,,84,n409
+26,5/7/07,Rome Masters,M,3,C,False,QF,RAFAEL NADAL,2.0,Spain,ESP,2,6.0,2339,Novak Djokovic,Serbia,SRB,5.0,-7.0,2195,6-2 6-3,5.0,,28.0,,,84,n409
+27,3/5/07,Indian Wells Masters,M,3,H,False,F,RAFAEL NADAL,2.0,Spain,ESP,2,6.0,2291,Novak Djokovic,Serbia,SRB,13.0,-7.0,2126,6-2 7-5,12.0,,59.0,,,84,n409
+28,5/29/06,Roland Garros,G,5,C,False,QF,RAFAEL NADAL,2.0,Spain,ESP,2,3.0,2372,Novak Djokovic,Serbia,SRB,63.0,-3.0,1974,6-4 6-4 RET,,,34.0,RET,,84,n409
+29,4/18/22,Belgrade,B,3,C,False,F,ANDREY RUBLEV,2.0,Russian Federation,RUS,8,16.0,2135,Novak Djokovic,Serbia,SRB,1.0,-16.0,2381,6-2 6-7(4) 6-0,1.0,,32.0,,,98,RE44
+30,4/10/22,Monte Carlo Masters,M,3,C,False,R32,ALEJANDRO DAVIDOVICH FOKINA,,Spain,ESP,45,23.0,1901,Novak Djokovic,Serbia,SRB,1.0,-18.0,2395,6-3 6-7(5) 6-1,1.0,,27.0,,,25,DH50
+31,2/21/22,Dubai,A,3,H,False,QF,JIRI VESELY,,Czech Republic,CZE,123,30.0,1790,Novak Djokovic,Serbia,SRB,1.0,-18.0,2413,6-4 7-6(4),1.0,,76.0,,Q,118,V708
+32,4/11/16,Monte Carlo Masters,M,3,C,False,R32,JIRI VESELY,,Czech Republic,CZE,55,28.0,1833,Novak Djokovic,Serbia,SRB,1.0,-20.0,2628,6-4 2-6 6-4,1.0,,37.0,,,118,V708
+33,11/14/21,Tour Finals,F,3,H,True,SF,ALEXANDER ZVEREV,3.0,Germany,GER,3,16.0,2273,Novak Djokovic,Serbia,SRB,1.0,-17.0,2425,7-6(4) 4-6 6-3,1.0,,100.0,,,122,z355
+34,7/24/21,Tokyo Olympics,O,3,H,False,SF,ALEXANDER ZVEREV,4.0,Germany,GER,5,17.0,2196,Novak Djokovic,Serbia,SRB,1.0,-17.0,2440,1-6 6-3 6-1,1.0,,75.0,,,122,z355
+35,11/12/18,Tour Finals,F,3,H,True,F,ALEXANDER ZVEREV,3.0,Germany,GER,5,21.0,2190,Novak Djokovic,Serbia,SRB,1.0,-20.0,2421,6-4 6-3,1.0,,81.0,,,122,z355
+36,5/15/17,Rome Masters,M,3,C,False,F,ALEXANDER ZVEREV,16.0,Germany,GER,17,22.0,2150,Novak Djokovic,Serbia,SRB,2.0,-21.0,2473,6-4 6-3,2.0,,56.0,,,122,z355
+37,8/30/21,US Open,G,5,H,False,F,DANIIL MEDVEDEV,2.0,Russian Federation,RUS,2,23.0,2266,Novak Djokovic,Serbia,SRB,1.0,-23.0,2424,6-4 6-4 6-4,1.0,,72.0,,,76,MM58
+38,11/16/20,Tour Finals,F,3,H,True,RR,DANIIL MEDVEDEV,4.0,Russian Federation,RUS,4,18.0,2196,Novak Djokovic,Serbia,SRB,1.0,-17.0,2417,6-3 6-3,1.0,,98.0,,,76,MM58
+39,8/12/19,Cincinnati Masters,M,3,H,False,SF,DANIIL MEDVEDEV,9.0,Russian Federation,RUS,8,18.0,2150,Novak Djokovic,Serbia,SRB,1.0,-18.0,2415,3-6 6-3 6-3,1.0,,81.0,,,76,MM58
+40,4/15/19,Monte Carlo Masters,M,3,C,False,QF,DANIIL MEDVEDEV,10.0,Russian Federation,RUS,14,17.0,2130,Novak Djokovic,Serbia,SRB,1.0,-17.0,2394,6-3 4-6 6-2,1.0,,25.0,,,76,MM58
+41,7/24/21,Tokyo Olympics,O,3,H,False,BR,PABLO CARRENO BUSTA,6.0,Spain,ESP,11,19.0,2097,Novak Djokovic,Serbia,SRB,1.0,-19.0,2423,6-4 6-7(6) 6-3,1.0,,75.0,,,18,CD85
+42,8/31/20,US Open,G,5,H,False,R16,PABLO CARRENO BUSTA,20.0,Spain,ESP,27,25.0,2015,Novak Djokovic,Serbia,SRB,1.0,-24.0,2446,6-5 DEF,1.0,,65.0,DEF,,18,CD85
+43,4/19/21,Belgrade,B,3,C,False,SF,ASLAN KARATSEV,3.0,Russian Federation,RUS,28,18.0,1965,Novak Djokovic,Serbia,SRB,1.0,-17.0,2401,7-5 4-6 6-4,1.0,,24.0,,,63,KC56
+44,4/11/21,Monte Carlo Masters,M,3,C,False,R16,DANIEL EVANS,,United Kingdom,GBR,32,20.0,1975,Novak Djokovic,Serbia,SRB,1.0,-18.0,2418,6-4 7-5,1.0,,24.0,,,35,E687
+45,11/16/20,Tour Finals,F,3,H,True,SF,DOMINIC THIEM,3.0,Austria,AUT,3,16.0,2248,Novak Djokovic,Serbia,SRB,1.0,-17.0,2400,7-5 6-7(10) 7-6(5),1.0,,98.0,,,112,TB69
+46,11/11/19,Tour Finals,F,3,H,True,RR,DOMINIC THIEM,5.0,Austria,AUT,5,16.0,2201,Novak Djokovic,Serbia,SRB,2.0,-17.0,2388,6-7(5) 6-3 7-6(5),2.0,,98.0,,,112,TB69
+47,5/27/19,Roland Garros,G,5,C,False,SF,DOMINIC THIEM,4.0,Austria,AUT,4,22.0,2195,Novak Djokovic,Serbia,SRB,1.0,-22.0,2401,6-2 3-6 7-5 5-7 7-5,1.0,,47.0,,,112,TB69
+48,4/16/18,Monte Carlo Masters,M,3,C,False,R16,DOMINIC THIEM,5.0,Austria,AUT,7,17.0,2097,Novak Djokovic,Serbia,SRB,13.0,-16.0,2364,6-7(2) 6-2 6-3,9.0,,33.0,,,112,TB69
+49,5/29/17,Roland Garros,G,5,C,False,QF,DOMINIC THIEM,6.0,Austria,AUT,7,23.0,2187,Novak Djokovic,Serbia,SRB,2.0,-23.0,2457,7-6(5) 6-3 6-0,2.0,,45.0,,,112,TB69
+50,10/26/20,Vienna,A,3,H,True,QF,LORENZO SONEGO,,Italy,ITA,42,22.0,1878,Novak Djokovic,Serbia,SRB,1.0,-18.0,2427,6-2 6-1,1.0,,84.0,,LL,108,SU87
+51,11/11/19,Tour Finals,F,3,H,True,RR,ROGER FEDERER,3.0,Switzerland,SUI,3,12.0,2334,Novak Djokovic,Serbia,SRB,2.0,-12.0,2371,6-4 6-3,2.0,,98.0,,,36,F324
+52,11/15/15,Tour Finals,F,3,H,True,RR,ROGER FEDERER,3.0,Switzerland,SUI,3,16.0,2431,Novak Djokovic,Serbia,SRB,1.0,-16.0,2605,7-5 6-2,1.0,,67.0,,,36,F324
+53,8/16/15,Cincinnati Masters,M,3,H,False,F,ROGER FEDERER,2.0,Switzerland,SUI,3,17.0,2420,Novak Djokovic,Serbia,SRB,1.0,-17.0,2571,7-6(1) 6-3,1.0,,75.0,,,36,F324
+54,2/23/15,Dubai,A,3,H,False,F,ROGER FEDERER,2.0,Switzerland,SUI,2,15.0,2388,Novak Djokovic,Serbia,SRB,1.0,-15.0,2540,6-3 7-5,1.0,,54.0,,,36,F324
+55,10/5/14,Shanghai Masters,M,3,H,False,SF,ROGER FEDERER,3.0,Switzerland,SUI,3,15.0,2374,Novak Djokovic,Serbia,SRB,1.0,-15.0,2516,6-4 6-4,1.0,,82.0,,,36,F324
+56,4/13/14,Monte Carlo Masters,M,3,C,False,SF,ROGER FEDERER,4.0,Switzerland,SUI,4,16.0,2354,Novak Djokovic,Serbia,SRB,2.0,-17.0,2539,7-5 6-2,2.0,,35.0,,,36,F324
+57,2/24/14,Dubai,A,3,H,False,SF,ROGER FEDERER,4.0,Switzerland,SUI,8,15.0,2325,Novak Djokovic,Serbia,SRB,2.0,-15.0,2519,3-6 6-3 6-2,1.0,,53.0,,,36,F324
+58,8/12/12,Cincinnati Masters,M,3,H,False,F,ROGER FEDERER,1.0,Switzerland,SUI,1,12.0,2464,Novak Djokovic,Serbia,SRB,2.0,-12.0,2455,6-0 7-6(7),2.0,,61.0,,,36,F324
+59,6/25/12,Wimbledon,G,5,G,False,SF,ROGER FEDERER,3.0,Switzerland,SUI,3,16.0,2438,Novak Djokovic,Serbia,SRB,1.0,-16.0,2469,6-3 3-6 6-4 6-3,1.0,,80.0,,,36,F324
+60,5/22/11,Roland Garros,G,5,C,False,SF,ROGER FEDERER,3.0,Switzerland,SUI,3,19.0,2385,Novak Djokovic,Serbia,SRB,2.0,-19.0,2492,7-6(5) 6-3 3-6 7-6(5),2.0,,46.0,,,36,F324
+61,11/21/10,Tour Finals,F,3,H,True,SF,ROGER FEDERER,,Switzerland,SUI,2,9.0,2389,Novak Djokovic,Serbia,SRB,3.0,-9.0,2307,6-1 6-4,,,90.0,,,36,F324
+62,11/1/10,Basel,A,3,H,True,F,ROGER FEDERER,1.0,Switzerland,SUI,2,10.0,2368,Novak Djokovic,Serbia,SRB,3.0,-9.0,2326,6-4 3-6 6-1,2.0,,74.0,,,36,F324
+63,10/10/10,Shanghai Masters,M,3,H,False,SF,ROGER FEDERER,3.0,Switzerland,SUI,3,11.0,2354,Novak Djokovic,Serbia,SRB,2.0,-10.0,2328,7-5 6-4,2.0,,62.0,,,36,F324
+64,8/9/10,Canada Masters,M,3,H,False,SF,ROGER FEDERER,3.0,Switzerland,SUI,3,10.0,2329,Novak Djokovic,Serbia,SRB,2.0,-10.0,2280,6-1 3-6 7-5,2.0,,68.0,,,36,F324
+65,8/31/09,US Open,G,5,H,False,SF,ROGER FEDERER,1.0,Switzerland,SUI,1,9.0,2446,Novak Djokovic,Serbia,SRB,4.0,-9.0,2302,7-6(3) 7-5 7-5,4.0,,56.0,,,36,F324
+66,8/16/09,Cincinnati Masters,M,3,H,False,F,ROGER FEDERER,1.0,Switzerland,SUI,1,7.0,2428,Novak Djokovic,Serbia,SRB,4.0,-7.0,2288,6-1 7-5,4.0,,85.0,,,36,F324
+67,8/25/08,US Open,G,5,H,False,SF,ROGER FEDERER,2.0,Switzerland,SUI,2,12.0,2371,Novak Djokovic,Serbia,SRB,3.0,-12.0,2309,6-3 5-7 7-5 6-2,3.0,,64.0,,,36,F324
+68,4/20/08,Monte Carlo Masters,M,3,C,False,SF,ROGER FEDERER,1.0,Switzerland,SUI,1,6.0,2435,Novak Djokovic,Serbia,SRB,3.0,-7.0,2275,6-3 3-2 RET,3.0,,20.0,RET,,36,F324
+69,8/27/07,US Open,G,5,H,False,F,ROGER FEDERER,1.0,Switzerland,SUI,1,6.0,2506,Novak Djokovic,Serbia,SRB,3.0,-7.0,2272,7-6(4) 7-6(2) 6-4,3.0,,59.0,,,36,F324
+70,2/26/07,Dubai,A,3,H,False,QF,ROGER FEDERER,1.0,Switzerland,SUI,1,2.0,2545,Novak Djokovic,Serbia,SRB,14.0,-1.0,2090,6-3 6-7(6) 6-3,7.0,,65.0,,,36,F324
+71,1/15/07,Australian Open,G,5,H,False,R16,ROGER FEDERER,1.0,Switzerland,SUI,1,1.0,2534,Novak Djokovic,Serbia,SRB,15.0,-2.0,2088,6-2 7-5 6-3,14.0,,55.0,,,36,F324
+72,9/22/06,Davis Cup WG,D,5,H,False,RR,ROGER FEDERER,,Switzerland,SUI,1,2.0,2499,Novak Djokovic,Serbia,SRB,21.0,-1.0,2031,6-3 6-2 6-3,,,,,,36,F324
+73,4/17/06,Monte Carlo Masters,M,3,C,False,R64,ROGER FEDERER,1.0,Switzerland,SUI,1,1.0,2505,Novak Djokovic,Serbia,SRB,67.0,,1916,6-3 2-6 6-3,,Q,15.0,,,36,F324
+74,10/7/19,Shanghai Masters,M,3,H,False,QF,STEFANOS TSITSIPAS,6.0,Greece,GRE,7,18.0,2090,Novak Djokovic,Serbia,SRB,1.0,-18.0,2390,3-6 7-5 6-3,1.0,,88.0,,,116,TE51
+75,8/6/18,Canada Masters,M,3,H,False,R16,STEFANOS TSITSIPAS,,Greece,GRE,27,19.0,1984,Novak Djokovic,Serbia,SRB,10.0,-18.0,2350,6-3 6-7(5) 6-3,9.0,,76.0,,,116,TE51
+76,8/26/19,US Open,G,5,H,False,R16,STAN WAWRINKA,23.0,Switzerland,SUI,24,22.0,2087,Novak Djokovic,Serbia,SRB,1.0,-22.0,2400,6-4 7-5 2-1 RET,1.0,,61.0,RET,,119,W367
+77,8/29/16,US Open,G,5,H,False,F,STAN WAWRINKA,3.0,Switzerland,SUI,3,28.0,2254,Novak Djokovic,Serbia,SRB,1.0,-28.0,2596,6-7(1) 6-4 7-5 6-3,1.0,,47.0,,,119,W367
+78,5/24/15,Roland Garros,G,5,C,False,F,STAN WAWRINKA,8.0,Switzerland,SUI,9,28.0,2246,Novak Djokovic,Serbia,SRB,1.0,-28.0,2593,4-6 6-4 6-3 6-4,1.0,,46.0,,,119,W367
+79,1/13/14,Australian Open,G,5,H,False,QF,STAN WAWRINKA,8.0,Switzerland,SUI,8,23.0,2225,Novak Djokovic,Serbia,SRB,2.0,-24.0,2541,2-6 6-4 6-2 3-6 9-7,2.0,,70.0,,,119,W367
+80,10/9/06,Vienna,A,3,H,True,R16,STAN WAWRINKA,,Switzerland,SUI,44,12.0,1975,Novak Djokovic,Serbia,SRB,16.0,-11.0,2060,6-3 6-3,8.0,,59.0,,,119,W367
+81,7/24/06,Umag,B,3,C,False,F,STAN WAWRINKA,,Switzerland,SUI,69,16.0,1930,Novak Djokovic,Serbia,SRB,28.0,-13.0,2038,6-6(1) RET,4.0,,26.0,RET,,119,W367
+82,3/18/19,Miami Masters,M,3,H,False,R16,ROBERTO BAUTISTA AGUT,22.0,Spain,ESP,25,18.0,2104,Novak Djokovic,Serbia,SRB,1.0,-17.0,2408,1-6 7-5 6-3,1.0,,57.0,,,10,BD06
+83,12/31/18,Doha,B,3,H,False,SF,ROBERTO BAUTISTA AGUT,7.0,Spain,ESP,24,17.0,2057,Novak Djokovic,Serbia,SRB,1.0,-16.0,2404,3-6 7-6(6) 6-4,1.0,,74.0,,,10,BD06
+84,10/10/16,Shanghai Masters,M,3,H,False,SF,ROBERTO BAUTISTA AGUT,15.0,Spain,ESP,19,21.0,2118,Novak Djokovic,Serbia,SRB,1.0,-21.0,2569,6-4 6-4,1.0,,63.0,,,10,BD06
+85,3/4/19,Indian Wells Masters,M,3,H,False,R32,PHILIPP KOHLSCHREIBER,,Germany,GER,39,20.0,1986,Novak Djokovic,Serbia,SRB,1.0,-18.0,2424,6-4 6-4,1.0,,45.0,,,67,K435
+86,5/25/09,Roland Garros,G,5,C,False,R32,PHILIPP KOHLSCHREIBER,29.0,Germany,GER,31,22.0,2048,Novak Djokovic,Serbia,SRB,4.0,-21.0,2308,6-4 6-4 6-4,4.0,,51.0,,,67,K435
+87,10/29/18,Paris Masters,M,3,H,True,F,KAREN KHACHANOV,,Russian Federation,RUS,18,22.0,2115,Novak Djokovic,Serbia,SRB,2.0,-21.0,2426,7-5 6-4,2.0,,75.0,,,64,KE29
+88,6/18/18,Queen's Club,A,3,G,False,F,MARIN CILIC,1.0,Croatia,CRO,6,15.0,2182,Novak Djokovic,Serbia,SRB,22.0,-15.0,2317,5-7 7-6(4) 6-3,,WC,98.0,,,22,c977
+89,10/31/16,Paris Masters,M,3,H,True,QF,MARIN CILIC,9.0,Croatia,CRO,10,18.0,2196,Novak Djokovic,Serbia,SRB,1.0,-19.0,2551,6-4 7-6(2),1.0,,77.0,,,22,c977
+90,5/28/18,Roland Garros,G,5,C,False,QF,MARCO CECCHINATO,,Italy,ITA,72,30.0,1913,Novak Djokovic,Serbia,SRB,22.0,-25.0,2332,6-3 7-6(4) 1-6 7-6(11),20.0,,45.0,,,20,cf01
+91,5/7/18,Madrid Masters,M,3,C,False,R32,KYLE EDMUND,,United Kingdom,GBR,22,19.0,1990,Novak Djokovic,Serbia,SRB,12.0,-17.0,2337,6-3 2-6 6-3,10.0,,65.0,,,34,e831
+92,4/23/18,Barcelona,A,3,C,False,R32,MARTIN KLIZAN,,Slovakia,SVK,140,20.0,1885,Novak Djokovic,Serbia,SRB,12.0,-16.0,2348,6-2 1-6 6-3,6.0,,42.0,,Q,65,K966
+93,3/19/18,Miami Masters,M,3,H,False,R64,BENOIT PAIRE,,France,FRA,47,21.0,1910,Novak Djokovic,Serbia,SRB,12.0,-17.0,2378,6-3 6-4,9.0,,51.0,,,88,PD31
+94,3/5/18,Indian Wells Masters,M,3,H,False,R64,TARO DANIEL,,Japan,JPN,109,36.0,1756,Novak Djokovic,Serbia,SRB,13.0,-18.0,2396,7-6(3) 4-6 6-1,10.0,,55.0,,Q,24,da81
+95,7/3/17,Wimbledon,G,5,G,False,QF,TOMAS BERDYCH,11.0,Czech Republic,CZE,15,23.0,2165,Novak Djokovic,Serbia,SRB,4.0,-22.0,2443,7-6(2) 2-0 RET,2.0,,78.0,RET,,15,BA47
+96,5/12/13,Rome Masters,M,3,C,False,QF,TOMAS BERDYCH,6.0,Czech Republic,CZE,6,17.0,2245,Novak Djokovic,Serbia,SRB,1.0,-17.0,2501,2-6 7-5 6-4,1.0,,48.0,,,15,BA47
+97,6/21/10,Wimbledon,G,5,G,False,SF,TOMAS BERDYCH,12.0,Czech Republic,CZE,13,18.0,2179,Novak Djokovic,Serbia,SRB,3.0,-18.0,2280,6-3 7-6(9) 6-3,3.0,,88.0,,,15,BA47
+98,4/17/17,Monte Carlo Masters,M,3,C,False,QF,DAVID GOFFIN,10.0,Belgium,BEL,13,19.0,2140,Novak Djokovic,Serbia,SRB,2.0,-19.0,2493,6-2 3-6 7-5,2.0,,20.0,,,47,gb88
+99,3/6/17,Indian Wells Masters,M,3,H,False,R16,NICK KYRGIOS,15.0,Australia,AUS,16,18.0,2124,Novak Djokovic,Serbia,SRB,2.0,-18.0,2507,6-4 7-6(3),2.0,,53.0,,,71,ke17
+100,2/27/17,Acapulco,A,3,H,False,QF,NICK KYRGIOS,6.0,Australia,AUS,17,17.0,2110,Novak Djokovic,Serbia,SRB,2.0,-17.0,2520,7-6(9) 7-5,1.0,,60.0,,,71,ke17
+101,1/16/17,Australian Open,G,5,H,False,R64,DENIS ISTOMIN,,Uzbekistan,UZB,117,31.0,1860,Novak Djokovic,Serbia,SRB,2.0,-23.0,2539,7-6(8) 5-7 2-6 7-6(5) 6-4,2.0,,68.0,,,60,i165
+102,11/14/16,Tour Finals,F,3,H,True,F,ANDY MURRAY,1.0,United Kingdom,GBR,1,15.0,2485,Novak Djokovic,Serbia,SRB,2.0,-15.0,2543,6-3 6-4,2.0,,68.0,,,82,mc10
+103,5/9/16,Rome Masters,M,3,C,False,F,ANDY MURRAY,2.0,United Kingdom,GBR,3,19.0,2385,Novak Djokovic,Serbia,SRB,1.0,-20.0,2627,6-3 6-3,1.0,,47.0,,,82,mc10
+104,8/10/15,Canada Masters,M,3,H,False,F,ANDY MURRAY,2.0,United Kingdom,GBR,3,19.0,2379,Novak Djokovic,Serbia,SRB,1.0,-19.0,2585,6-4 4-6 6-3,1.0,,71.0,,,82,mc10
+105,6/24/13,Wimbledon,G,5,G,False,F,ANDY MURRAY,2.0,United Kingdom,GBR,2,21.0,2384,Novak Djokovic,Serbia,SRB,1.0,-21.0,2496,6-4 7-5 6-4,1.0,,82.0,,,82,mc10
+106,8/27/12,US Open,G,5,H,False,F,ANDY MURRAY,3.0,United Kingdom,GBR,4,20.0,2371,Novak Djokovic,Serbia,SRB,2.0,-20.0,2466,7-6(10) 7-5 2-6 3-6 6-2,2.0,,60.0,,,82,mc10
+107,7/25/12,London Olympics,O,3,G,False,SF,ANDY MURRAY,3.0,United Kingdom,GBR,4,14.0,2339,Novak Djokovic,Serbia,SRB,2.0,-13.0,2461,7-5 7-5,2.0,,87.0,,,82,mc10
+108,2/27/12,Dubai,A,3,H,False,SF,ANDY MURRAY,3.0,United Kingdom,GBR,4,13.0,2356,Novak Djokovic,Serbia,SRB,1.0,-13.0,2483,6-2 7-5,1.0,,69.0,,,82,mc10
+109,8/14/11,Cincinnati Masters,M,3,H,False,F,ANDY MURRAY,4.0,United Kingdom,GBR,4,19.0,2291,Novak Djokovic,Serbia,SRB,1.0,-19.0,2514,6-4 3-0 RET,1.0,,68.0,RET,,82,mc10
+110,3/25/09,Miami Masters,M,3,H,False,F,ANDY MURRAY,4.0,United Kingdom,GBR,4,10.0,2344,Novak Djokovic,Serbia,SRB,3.0,-10.0,2278,6-2 7-5,3.0,,52.0,,,82,mc10
+111,7/28/08,Cincinnati Masters,M,3,H,False,F,ANDY MURRAY,8.0,United Kingdom,GBR,9,15.0,2192,Novak Djokovic,Serbia,SRB,3.0,-15.0,2290,7-6(4) 7-6(5),3.0,,80.0,,,82,mc10
+112,7/21/08,Canada Masters,M,3,H,False,QF,ANDY MURRAY,8.0,United Kingdom,GBR,9,14.0,2161,Novak Djokovic,Serbia,SRB,3.0,-14.0,2279,6-3 7-6(3),3.0,,61.0,,,82,mc10
+113,8/8/16,Rio Olympics,O,3,H,False,R64,JUAN MARTIN DEL POTRO,,Argentina,ARG,141,16.0,2146,Novak Djokovic,Serbia,SRB,1.0,-17.0,2606,7-6(4) 7-6(2),1.0,,53.0,,,27,d683
+114,3/7/13,Indian Wells Masters,M,3,H,False,SF,JUAN MARTIN DEL POTRO,7.0,Argentina,ARG,7,17.0,2313,Novak Djokovic,Serbia,SRB,1.0,-17.0,2535,4-6 6-4 6-4,1.0,,42.0,,,27,d683
+115,7/25/12,London Olympics,O,3,G,False,BR,JUAN MARTIN DEL POTRO,8.0,Argentina,ARG,9,16.0,2281,Novak Djokovic,Serbia,SRB,2.0,-16.0,2448,7-5 6-4,2.0,,87.0,,,27,d683
+116,9/16/11,Davis Cup WG,D,5,H,False,SF,JUAN MARTIN DEL POTRO,,Argentina,ARG,17,18.0,2217,Novak Djokovic,Serbia,SRB,1.0,-17.0,2522,7-6(5) 3-0 RET,,,,RET,,27,d683
+117,6/27/16,Wimbledon,G,5,G,False,R32,SAM QUERREY,28.0,United States,USA,41,28.0,1957,Novak Djokovic,Serbia,SRB,1.0,-25.0,2623,7-6(6) 6-1 3-6 7-6(5),1.0,,76.0,,,92,Q927
+118,10/29/12,Paris Masters,M,3,H,True,R32,SAM QUERREY,,United States,USA,23,19.0,2050,Novak Djokovic,Serbia,SRB,2.0,-18.0,2472,0-6 7-6(5) 6-4,2.0,,69.0,,,92,Q927
+119,2/22/16,Dubai,A,3,H,False,QF,FELICIANO LOPEZ,6.0,Spain,ESP,24,19.0,2003,Novak Djokovic,Serbia,SRB,1.0,-18.0,2630,6-3 0-0 RET,1.0,,52.0,RET,,73,l397
+120,8/25/14,US Open,G,5,H,False,SF,KEI NISHIKORI,10.0,Japan,JPN,11,25.0,2205,Novak Djokovic,Serbia,SRB,1.0,-25.0,2527,6-4 1-6 7-6(4) 6-3,1.0,,64.0,,,86,N552
+121,10/31/11,Basel,A,3,H,True,SF,KEI NISHIKORI,,Japan,JPN,32,19.0,2002,Novak Djokovic,Serbia,SRB,1.0,-19.0,2507,2-6 7-6(4) 6-0,1.0,,62.0,,WC,86,N552
+122,8/10/14,Cincinnati Masters,M,3,H,False,R16,TOMMY ROBREDO,16.0,Spain,ESP,20,19.0,2062,Novak Djokovic,Serbia,SRB,1.0,-18.0,2536,7-6(6) 7-5,1.0,,71.0,,,96,r419
+123,10/31/05,Paris Masters,M,3,P,True,R16,TOMMY ROBREDO,14.0,Spain,ESP,21,5.0,2040,Novak Djokovic,Serbia,SRB,85.0,-7.0,1868,6-4 6-3,,Q,82.0,,,96,r419
+124,8/4/14,Canada Masters,M,3,H,False,R16,JO WILFRIED TSONGA,13.0,France,FRA,15,17.0,2165,Novak Djokovic,Serbia,SRB,1.0,-18.0,2553,6-2 6-2,1.0,,73.0,,,117,T786
+125,11/7/11,Paris Masters,M,3,H,True,QF,JO WILFRIED TSONGA,6.0,France,FRA,8,9.0,2193,Novak Djokovic,Serbia,SRB,1.0,-9.0,2490,W/O,1.0,,60.0,W/O,,117,T786
+126,1/18/10,Australian Open,G,5,H,False,QF,JO WILFRIED TSONGA,10.0,France,FRA,10,21.0,2155,Novak Djokovic,Serbia,SRB,3.0,-21.0,2367,7-6(8) 6-7(5) 1-6 6-3 6-1,3.0,,52.0,,,117,T786
+127,2/16/09,Marseille,B,3,H,True,SF,JO WILFRIED TSONGA,4.0,France,FRA,12,12.0,2149,Novak Djokovic,Serbia,SRB,3.0,-11.0,2254,6-4 7-6(1),1.0,,77.0,,,117,T786
+128,11/9/08,Masters Cup,F,3,H,True,RR,JO WILFRIED TSONGA,,France,FRA,7,16.0,2119,Novak Djokovic,Serbia,SRB,3.0,-16.0,2277,1-6 7-5 6-1,,,70.0,,,117,T786
+129,10/26/08,Paris Masters,M,3,H,True,R16,JO WILFRIED TSONGA,13.0,France,FRA,14,16.0,2064,Novak Djokovic,Serbia,SRB,3.0,-16.0,2279,6-4 1-6 6-3,3.0,,78.0,,,117,T786
+130,9/22/08,Bangkok,B,3,H,True,F,JO WILFRIED TSONGA,2.0,France,FRA,20,17.0,2039,Novak Djokovic,Serbia,SRB,3.0,-17.0,2306,7-6(4) 6-4,1.0,,68.0,,,117,T786
+131,8/11/13,Cincinnati Masters,M,3,H,False,QF,JOHN ISNER,,United States,USA,22,20.0,2065,Novak Djokovic,Serbia,SRB,1.0,-19.0,2471,7-6(5) 3-6 7-5,1.0,,69.0,,,59,i186
+132,3/8/12,Indian Wells Masters,M,3,H,False,SF,JOHN ISNER,11.0,United States,USA,11,20.0,2113,Novak Djokovic,Serbia,SRB,1.0,-19.0,2474,7-6(7) 3-6 7-6(5),1.0,,47.0,,,59,i186
+133,5/5/13,Madrid Masters,M,3,C,False,R32,GRIGOR DIMITROV,,Bulgaria,BUL,28,20.0,2009,Novak Djokovic,Serbia,SRB,1.0,-19.0,2518,7-6(6) 6-7(8) 6-3,1.0,,54.0,,,30,d875
+134,3/20/13,Miami Masters,M,3,H,False,R16,TOMMY HAAS,15.0,Germany,GER,18,19.0,2066,Novak Djokovic,Serbia,SRB,1.0,-18.0,2518,6-2 6-4,1.0,,40.0,,,52,h355
+135,6/22/09,Wimbledon,G,5,G,False,QF,TOMMY HAAS,24.0,Germany,GER,34,20.0,2110,Novak Djokovic,Serbia,SRB,4.0,-20.0,2288,7-5 7-6(6) 4-6 6-3,4.0,,83.0,,,52,h355
+136,6/8/09,Halle,B,3,G,False,F,TOMMY HAAS,,Germany,GER,41,17.0,2061,Novak Djokovic,Serbia,SRB,4.0,-16.0,2293,6-3 6-7(4) 6-1,2.0,,66.0,,WC,52,h355
+137,5/6/12,Madrid Masters,M,3,C,False,QF,JANKO TIPSAREVIC,7.0,Serbia,SRB,8,19.0,2107,Novak Djokovic,Serbia,SRB,1.0,-18.0,2469,7-6(2) 6-3,1.0,,67.0,,,113,T742
+138,11/20/11,Tour Finals,F,3,H,True,RR,JANKO TIPSAREVIC,,Serbia,SRB,9,20.0,2080,Novak Djokovic,Serbia,SRB,1.0,-20.0,2466,3-6 6-3 6-3,,,67.0,,,113,T742
+139,11/20/11,Tour Finals,F,3,H,True,RR,DAVID FERRER,,Spain,ESP,5,19.0,2206,Novak Djokovic,Serbia,SRB,1.0,-18.0,2484,6-3 6-1,,,67.0,,,37,f401
+140,3/6/09,Davis Cup WG,D,5,C,False,R16,DAVID FERRER,,Spain,ESP,12,14.0,2078,Novak Djokovic,Serbia,SRB,3.0,-13.0,2263,6-3 6-3 7-6(4),,,,,,37,f401
+141,11/12/07,Masters Cup,F,3,H,True,RR,DAVID FERRER,,Spain,ESP,6,14.0,2165,Novak Djokovic,Serbia,SRB,3.0,-13.0,2232,6-4 6-4,,,55.0,,,37,f401
+142,4/15/07,Monte Carlo Masters,M,3,C,False,R16,DAVID FERRER,12.0,Spain,ESP,16,13.0,2063,Novak Djokovic,Serbia,SRB,7.0,-13.0,2173,7-5 6-4,6.0,,21.0,,,37,f401
+143,9/13/04,Bucharest,B,3,C,False,R16,DAVID FERRER,6.0,Spain,ESP,54,5.0,1871,Novak Djokovic,Serbia,SRB,272.0,-13.0,1689,4-6 6-4 6-4,,Q,34.0,,,37,f401
+144,5/3/10,Belgrade,B,3,C,False,QF,FILIP KRAJINOVIC,,Serbia,SRB,319,51.0,1685,Novak Djokovic,Serbia,SRB,2.0,-17.0,2306,6-4 RET,1.0,,33.0,RET,WC,68,KB05
+145,2/8/10,Rotterdam,A,3,H,True,SF,MIKHAIL YOUZHNY,6.0,Russian Federation,RUS,20,17.0,2071,Novak Djokovic,Serbia,SRB,2.0,-16.0,2348,7-6(5) 7-6(6),1.0,,60.0,,,120,Y061
+146,2/19/07,Rotterdam,A,3,H,True,SF,MIKHAIL YOUZHNY,,Russian Federation,RUS,22,12.0,2057,Novak Djokovic,Serbia,SRB,14.0,-11.0,2094,3-6 7-6(7) 7-5,5.0,,82.0,,,120,Y061
+147,2/12/07,Marseille,B,3,H,True,R32,MIKHAIL YOUZHNY,,Russian Federation,RUS,22,10.0,2027,Novak Djokovic,Serbia,SRB,14.0,-10.0,2086,6-4 4-6 7-6,4.0,,65.0,,,120,Y061
+148,11/22/09,Tour Finals,F,3,H,True,RR,ROBIN SODERLING,,Sweden,SWE,9,16.0,2199,Novak Djokovic,Serbia,SRB,3.0,-16.0,2360,7-6(5) 6-1,,,94.0,,,107,sa49
+149,10/11/09,Shanghai Masters,M,3,H,False,SF,NIKOLAY DAVYDENKO,6.0,Russian Federation,RUS,8,14.0,2202,Novak Djokovic,Serbia,SRB,4.0,-15.0,2321,4-6 6-4 7-6(1),2.0,,66.0,,,26,d402
+150,2/8/08,Davis Cup WG,D,5,H,False,R16,NIKOLAY DAVYDENKO,,Russian Federation,RUS,4,13.0,2107,Novak Djokovic,Serbia,SRB,3.0,-13.0,2276,4-6 3-6 6-4 0-0 RET,,,,RET,,26,d402
+151,1/12/09,Sydney,B,3,H,False,SF,JARKKO NIEMINEN,,Finland,FIN,40,17.0,1951,Novak Djokovic,Serbia,SRB,3.0,-15.0,2270,6-4 7-6(3),1.0,,52.0,,,85,N289
+152,1/4/09,Brisbane,B,3,H,False,R32,ERNESTS GULBIS,,Latvia,LAT,53,15.0,1975,Novak Djokovic,Serbia,SRB,3.0,-14.0,2277,6-4 6-4,1.0,,55.0,,,51,G858
+153,3/27/08,Miami Masters,M,3,H,False,R64,KEVIN ANDERSON,,South Africa,RSA,122,28.0,1799,Novak Djokovic,Serbia,SRB,3.0,-18.0,2279,7-6(1) 3-6 6-4,3.0,,57.0,,Q,5,A678
+154,2/11/08,Marseille,B,3,H,True,R16,GILLES SIMON,,France,FRA,30,15.0,1964,Novak Djokovic,Serbia,SRB,3.0,-13.0,2263,6-2 6-7(6) 6-3,1.0,,95.0,,,104,SD32
+155,11/12/07,Masters Cup,F,3,H,True,RR,RICHARD GASQUET,,France,FRA,8,17.0,2081,Novak Djokovic,Serbia,SRB,3.0,-16.0,2248,6-4 6-2,,,55.0,,,45,g628
+156,7/23/07,Umag,B,3,C,False,R16,VIKTOR TROICKI,,Serbia,SRB,176,37.0,1723,Novak Djokovic,Serbia,SRB,3.0,-15.0,2206,2-6 6-4 7-5,1.0,,26.0,,Q,115,t840
+157,4/24/06,Barcelona,A,3,C,False,R64,DANIEL GIMENO TRAVER,,Spain,ESP,178,49.0,1657,Novak Djokovic,Serbia,SRB,66.0,-16.0,1916,6-4 3-6 6-3,,,35.0,,Q,46,G676
+158,3/6/06,Indian Wells Masters,M,3,H,False,R128,JULIEN BENNETEAU,,France,FRA,88,15.0,1847,Novak Djokovic,Serbia,SRB,67.0,-13.0,1903,6-3 6-4,,,43.0,,Q,13,b747
+159,2/20/06,Rotterdam,A,3,H,True,QF,RADEK STEPANEK,6.0,Czech Republic,CZE,23,7.0,2002,Novak Djokovic,Serbia,SRB,72.0,-8.0,1911,7-5 4-6 7-6(2),,Q,61.0,,,110,s694

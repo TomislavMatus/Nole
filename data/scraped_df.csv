@@ -1,0 +1,921 @@
+year,competition,nov_win,locations,in_out,surfaces,competition_rd,OpponentId,OpponentName
+2019,ATP Masters 1000 Paris,True,France,Indoor,Hard,SF,D875,Grigor Dimitrov
+2018,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R16,D875,Grigor Dimitrov
+2018,London / Queen's Club,True,Great Britain,Outdoor,Grass,R16,D875,Grigor Dimitrov
+2016,ATP Masters 1000 Paris,True,France,Indoor,Hard,R16,D875,Grigor Dimitrov
+2014,Beijing,True,China,Outdoor,Hard,QF,D875,Grigor Dimitrov
+2014,Wimbledon,True,Great Britain,Outdoor,Grass,SF,D875,Grigor Dimitrov
+2013,Roland Garros,True,France,Outdoor,Clay,R32,D875,Grigor Dimitrov
+2013,ATP Masters 1000 Madrid,False,Spain,Outdoor,Clay,R32,D875,Grigor Dimitrov
+2013,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R32,D875,Grigor Dimitrov
+2012,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,R32,D875,Grigor Dimitrov
+2012,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,QF,H756,Robin Haase
+2010,Basel,True,Switzerland,Indoor,Hard,QF,H756,Robin Haase
+2007,US Open,True,"NY, U.S.A.",Outdoor,Hard,R128,H756,Robin Haase
+2015,US Open,True,"NY, U.S.A.",Outdoor,Hard,R64,H804,Andreas Haider-Maurer
+2015,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R16,H804,Andreas Haider-Maurer
+2014,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R64,H528,Victor Hanescu
+2011,Roland Garros,True,France,Outdoor,Clay,R64,H528,Victor Hanescu
+2010,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R16,H528,Victor Hanescu
+2010,Roland Garros,True,France,Outdoor,Clay,R32,H528,Victor Hanescu
+2009,Beijing,True,China,Outdoor,Hard,R32,H528,Victor Hanescu
+2008,ATP Masters 1000 Madrid,True,Spain,Indoor,Hard,R32,H528,Victor Hanescu
+2005,ATP Masters 1000 Paris,True,France,Indoor,Carpet,R64,H528,Victor Hanescu
+2013,Australian Open,True,Australia,Outdoor,Hard,R64,H940,Ryan Harrison
+2012,Wimbledon,True,Great Britain,Outdoor,Grass,R64,H940,Ryan Harrison
+2011,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R32,H940,Ryan Harrison
+2013,ATP Masters 1000 Paris,True,France,Indoor,Hard,R32,H996,Pierre-Hugues Herbert
+2022,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,QF,HB71,Hubert Hurkacz
+2021,ATP Masters 1000 Paris,True,France,Indoor,Hard,SF,HB71,Hubert Hurkacz
+2019,Wimbledon,True,Great Britain,Outdoor,Grass,R32,HB71,Hubert Hurkacz
+2019,Roland Garros,True,France,Outdoor,Clay,R128,HB71,Hubert Hurkacz
+2019,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,R16,I186,John Isner
+2018,Nitto ATP Finals,True,Great Britain,Indoor,Hard,RR,I186,John Isner
+2015,Beijing,True,China,Outdoor,Hard,QF,I186,John Isner
+2015,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,SF,I186,John Isner
+2015,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R16,I186,John Isner
+2014,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,SF,I186,John Isner
+2013,ATP Masters 1000 Paris,True,France,Indoor,Hard,R16,I186,John Isner
+2013,ATP Masters 1000 Cincinnati,False,"OH, U.S.A.",Outdoor,Hard,QF,I186,John Isner
+2013,USA vs. SRB WG QF,True,United States,Indoor,Hard,RR,I186,John Isner
+2012,ATP Masters 1000 Indian Wells,False,"CA, U.S.A.",Outdoor,Hard,SF,I186,John Isner
+2010,Beijing,True,China,Outdoor,Hard,SF,I186,John Isner
+2010,SRB vs. USA WG 1st RD,True,Serbia,Indoor,Clay,RR,I186,John Isner
+2017,Australian Open,False,Australia,Outdoor,Hard,R64,I165,Denis Istomin
+2014,Dubai,True,U.A.E.,Outdoor,Hard,R32,I165,Denis Istomin
+2014,Australian Open,True,Australia,Outdoor,Hard,R32,I165,Denis Istomin
+2013,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R16,I165,Denis Istomin
+2011,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R64,I165,Denis Istomin
+2010,Australian Open,True,Australia,Outdoor,Hard,R32,I165,Denis Istomin
+2020,Dubai,True,U.A.E.,Outdoor,Hard,R32,J267,Malek Jaziri
+2016,Dubai,True,U.A.E.,Outdoor,Hard,R16,J267,Malek Jaziri
+2018,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R64,J386,Steve Johnson
+2022,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R32,KC56,Aslan Karatsev
+2021,Belgrade,False,Serbia,Outdoor,Clay,SF,KC56,Aslan Karatsev
+2021,Australian Open,True,Australia,Outdoor,Hard,SF,KC56,Aslan Karatsev
+2022,Belgrade,True,Serbia,Outdoor,Clay,SF,KE29,Karen Khachanov
+2022,Dubai,True,U.A.E.,Outdoor,Hard,R16,KE29,Karen Khachanov
+2020,Roland Garros,True,France,Outdoor,Clay,R16,KE29,Karen Khachanov
+2020,Dubai,True,U.A.E.,Outdoor,Hard,QF,KE29,Karen Khachanov
+2019,Davis Cup Finals,True,Spain,Indoor,Hard,QF,KE29,Karen Khachanov
+2018,ATP Masters 1000 Paris,False,France,Indoor,Hard,F,KE29,Karen Khachanov
+2018,Wimbledon,True,Great Britain,Outdoor,Grass,R16,KE29,Karen Khachanov
+2018,Barcelona,False,Spain,Outdoor,Clay,R32,K966,Martin Klizan
+2017,Wimbledon,True,Great Britain,Outdoor,Grass,R128,K966,Martin Klizan
+2017,Acapulco,True,Mexico,Outdoor,Hard,R32,K966,Martin Klizan
+2015,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,R32,K966,Martin Klizan
+2015,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R64,K966,Martin Klizan
+2020,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,QF,KE73,Dominik Koepfer
+2020,Dubai,True,U.A.E.,Outdoor,Hard,R16,K435,Philipp Kohlschreiber
+2019,Wimbledon,True,Great Britain,Outdoor,Grass,R128,K435,Philipp Kohlschreiber
+2019,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R16,K435,Philipp Kohlschreiber
+2019,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R32,K435,Philipp Kohlschreiber
+2019,ATP Masters 1000 Indian Wells,False,"CA, U.S.A.",Outdoor,Hard,R32,K435,Philipp Kohlschreiber
+2016,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R32,K435,Philipp Kohlschreiber
+2015,Wimbledon,True,Great Britain,Outdoor,Grass,R128,K435,Philipp Kohlschreiber
+2014,ATP Masters 1000 Paris,True,France,Indoor,Hard,R32,K435,Philipp Kohlschreiber
+2014,US Open,True,"NY, U.S.A.",Outdoor,Hard,R16,K435,Philipp Kohlschreiber
+2014,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R16,K435,Philipp Kohlschreiber
+2013,Roland Garros,True,France,Outdoor,Clay,R16,K435,Philipp Kohlschreiber
+2010,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R32,K435,Philipp Kohlschreiber
+2009,Roland Garros,False,France,Outdoor,Clay,R32,K435,Philipp Kohlschreiber
+2008,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R32,K435,Philipp Kohlschreiber
+2020,Vienna,True,Austria,Indoor,Hard,R32,KB05,Filip Krajinovic
+2020,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R16,KB05,Filip Krajinovic
+2010,Belgrade,False,Serbia,Outdoor,Clay,QF,KB05,Filip Krajinovic
+2011,Basel,True,Switzerland,Indoor,Hard,R16,K540,Lukasz Kubot
+2011,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R32,K540,Lukasz Kubot
+2010,Australian Open,True,Australia,Outdoor,Hard,R16,K540,Lukasz Kubot
+2009,Belgrade,True,Serbia,Outdoor,Clay,F,K540,Lukasz Kubot
+2016,SRB vs. KAZ WG 1st RD,True,Serbia,Indoor,Hard,RR,K926,Mikhail Kukushkin
+2014,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,R16,K926,Mikhail Kukushkin
+2022,Wimbledon,True,Great Britain,Outdoor,Grass,F,KE17,Nick Kyrgios
+2017,ATP Masters 1000 Indian Wells,False,"CA, U.S.A.",Outdoor,Hard,R16,KE17,Nick Kyrgios
+2017,Acapulco,False,Mexico,Outdoor,Hard,QF,KE17,Nick Kyrgios
+2018,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R64,L987,Dusan Lajovic
+2015,Doha,True,Qatar,Outdoor,Hard,R32,L987,Dusan Lajovic
+2017,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,R16,L397,Feliciano Lopez
+2016,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R16,L397,Feliciano Lopez
+2016,Dubai,False,U.A.E.,Outdoor,Hard,QF,L397,Feliciano Lopez
+2015,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,R16,L397,Feliciano Lopez
+2015,US Open,True,"NY, U.S.A.",Outdoor,Hard,QF,L397,Feliciano Lopez
+2012,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,R16,L397,Feliciano Lopez
+2011,Belgrade,True,Serbia,Outdoor,Clay,F,L397,Feliciano Lopez
+2011,Dubai,True,U.A.E.,Outdoor,Hard,R16,L397,Feliciano Lopez
+2007,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R16,L397,Feliciano Lopez
+2007,Australian Open,True,Australia,Outdoor,Hard,R64,L397,Feliciano Lopez
+2018,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R32,ME82,Adrian Mannarino
+2018,London / Queen's Club,True,Great Britain,Outdoor,Grass,QF,ME82,Adrian Mannarino
+2017,Wimbledon,True,Great Britain,Outdoor,Grass,R16,ME82,Adrian Mannarino
+2016,Wimbledon,True,Great Britain,Outdoor,Grass,R64,ME82,Adrian Mannarino
+2014,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R32,MB02,Florian Mayer
+2013,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R32,MB02,Florian Mayer
+2013,Wimbledon,True,Great Britain,Outdoor,Grass,R128,MB02,Florian Mayer
+2012,Beijing,True,China,Outdoor,Hard,SF,MB02,Florian Mayer
+2012,Wimbledon,True,Great Britain,Outdoor,Grass,QF,MB02,Florian Mayer
+2011,Dubai,True,U.A.E.,Outdoor,Hard,QF,MB02,Florian Mayer
+2010,Rotterdam,True,Netherlands,Indoor,Hard,QF,MB02,Florian Mayer
+2021,ATP Masters 1000 Paris,True,France,Indoor,Hard,F,MM58,Daniil Medvedev
+2021,US Open,False,"NY, U.S.A.",Outdoor,Hard,F,MM58,Daniil Medvedev
+2021,Australian Open,True,Australia,Outdoor,Hard,F,MM58,Daniil Medvedev
+2020,Nitto ATP Finals,False,Great Britain,Indoor,Hard,RR,MM58,Daniil Medvedev
+2020,ATP Cup,True,Australia,Outdoor,Hard,SF,MM58,Daniil Medvedev
+2019,ATP Masters 1000 Cincinnati,False,"OH, U.S.A.",Outdoor,Hard,SF,MM58,Daniil Medvedev
+2019,ATP Masters 1000 Monte Carlo,False,Monaco,Outdoor,Clay,QF,MM58,Daniil Medvedev
+2019,Australian Open,True,Australia,Outdoor,Hard,R16,MM58,Daniil Medvedev
+2017,Eastbourne,True,Great Britain,Outdoor,Grass,SF,MM58,Daniil Medvedev
+2017,SRB vs. RUS WG 1st RD,True,Serbia,Indoor,Hard,RR,MM58,Daniil Medvedev
+2019,Tokyo,True,Japan,Outdoor,Hard,QF,PF39,Lucas Pouille
+2019,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,QF,PF39,Lucas Pouille
+2019,Australian Open,True,Australia,Outdoor,Hard,SF,PF39,Lucas Pouille
+2019,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R32,Q927,Sam Querrey
+2016,Wimbledon,False,Great Britain,Outdoor,Grass,R32,Q927,Sam Querrey
+2014,US Open,True,"NY, U.S.A.",Outdoor,Hard,R32,Q927,Sam Querrey
+2013,Beijing,True,China,Outdoor,Hard,QF,Q927,Sam Querrey
+2013,USA vs. SRB WG QF,True,United States,Indoor,Hard,RR,Q927,Sam Querrey
+2013,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R16,Q927,Sam Querrey
+2012,ATP Masters 1000 Paris,False,France,Indoor,Hard,R32,Q927,Sam Querrey
+2012,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R16,Q927,Sam Querrey
+2010,SRB vs. USA WG 1st RD,True,Serbia,Indoor,Clay,RR,Q927,Sam Querrey
+2008,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,QF,Q927,Sam Querrey
+2008,Australian Open,True,Australia,Outdoor,Hard,R32,Q927,Sam Querrey
+2018,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R16,R772,Albert Ramos-Vinolas
+2018,Australian Open,True,Australia,Outdoor,Hard,R32,R772,Albert Ramos-Vinolas
+2017,Roland Garros,True,France,Outdoor,Clay,R16,R772,Albert Ramos-Vinolas
+2017,SRB vs. ESP WG QF,True,Serbia,Indoor,Hard,RR,R772,Albert Ramos-Vinolas
+2015,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R32,R772,Albert Ramos-Vinolas
+2015,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R32,R772,Albert Ramos-Vinolas
+2021,Australian Open,True,Australia,Outdoor,Hard,R16,R975,Milos Raonic
+2020,ATP Masters 1000 Cincinnati,True,"NY, U.S.A.",Outdoor,Hard,F,R975,Milos Raonic
+2020,Australian Open,True,Australia,Outdoor,Hard,QF,R975,Milos Raonic
+2018,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,QF,R975,Milos Raonic
+2016,ATP Finals,True,Great Britain,Indoor,Hard,RR,R975,Milos Raonic
+2016,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,QF,R975,Milos Raonic
+2016,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,F,R975,Milos Raonic
+2015,Australian Open,True,Australia,Outdoor,Hard,QF,R975,Milos Raonic
+2014,ATP Masters 1000 Paris,True,France,Indoor,Hard,F,R975,Milos Raonic
+2014,Roland Garros,True,France,Outdoor,Clay,QF,R975,Milos Raonic
+2014,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,SF,R975,Milos Raonic
+2013,SRB vs.CAN WG SF,True,Serbia,Indoor,Clay,RR,R975,Milos Raonic
+2016,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R32,R612,Stephane Robert
+2016,Dubai,True,U.A.E.,Outdoor,Hard,R32,R419,Tommy Robredo
+2014,ATP Masters 1000 Cincinnati,False,"OH, U.S.A.",Outdoor,Hard,R16,R419,Tommy Robredo
+2014,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R16,R419,Tommy Robredo
+2009,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R16,R419,Tommy Robredo
+2008,US Open,True,"NY, U.S.A.",Outdoor,Hard,R16,R419,Tommy Robredo
+2007,Estoril,True,Portugal,Outdoor,Clay,SF,R419,Tommy Robredo
+2007,Rotterdam,True,Netherlands,Indoor,Hard,QF,R419,Tommy Robredo
+2006,Wimbledon,True,Great Britain,Outdoor,Grass,R64,R419,Tommy Robredo
+2005,ATP Masters 1000 Paris,False,France,Indoor,Carpet,R16,R419,Tommy Robredo
+2013,Beijing,True,China,Outdoor,Hard,R32,R685,Lukas Rosol
+2013,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R64,R685,Lukas Rosol
+2022,Belgrade,False,Serbia,Outdoor,Clay,F,RE44,Andrey Rublev
+2021,Nitto ATP Finals,True,Italy,Indoor,Hard,RR,RE44,Andrey Rublev
+2022,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,SF,RH16,Casper Ruud
+2021,Nitto ATP Finals,True,Italy,Indoor,Hard,RR,RH16,Casper Ruud
+2020,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,SF,RH16,Casper Ruud
+2021,Roland Garros,True,France,Outdoor,Clay,R128,SL08,Tennys Sandgren
+2020,ATP Masters 1000 Cincinnati,True,"NY, U.S.A.",Outdoor,Hard,R16,SL08,Tennys Sandgren
+2018,US Open,True,"NY, U.S.A.",Outdoor,Hard,R64,SL08,Tennys Sandgren
+2018,Wimbledon,True,Great Britain,Outdoor,Grass,R128,SL08,Tennys Sandgren
+2022,Roland Garros,True,France,Outdoor,Clay,R16,SM37,Diego Schwartzman
+2020,Nitto ATP Finals,True,Great Britain,Indoor,Hard,RR,SM37,Diego Schwartzman
+2020,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,F,SM37,Diego Schwartzman
+2020,Australian Open,True,Australia,Outdoor,Hard,R16,SM37,Diego Schwartzman
+2019,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,SF,SM37,Diego Schwartzman
+2017,Roland Garros,True,France,Outdoor,Clay,R32,SM37,Diego Schwartzman
+2014,US Open,True,"NY, U.S.A.",Outdoor,Hard,R128,SM37,Diego Schwartzman
+2016,Australian Open,True,Australia,Outdoor,Hard,R32,SA93,Andreas Seppi
+2015,US Open,True,"NY, U.S.A.",Outdoor,Hard,R32,SA93,Andreas Seppi
+2013,Dubai,True,U.A.E.,Outdoor,Hard,QF,SA93,Andreas Seppi
+2012,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R32,SA93,Andreas Seppi
+2012,Roland Garros,True,France,Outdoor,Clay,R16,SA93,Andreas Seppi
+2012,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R32,SA93,Andreas Seppi
+2009,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,R16,SA93,Andreas Seppi
+2009,Belgrade,True,Serbia,Outdoor,Clay,SF,SA93,Andreas Seppi
+2008,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R16,SA93,Andreas Seppi
+2008,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R64,SA93,Andreas Seppi
+2007,Vienna,True,Austria,Indoor,Hard,SF,SA93,Andreas Seppi
+2006,Rotterdam,True,Netherlands,Indoor,Hard,R32,SA93,Andreas Seppi
+2021,Wimbledon,True,Great Britain,Outdoor,Grass,SF,SU55,Denis Shapovalov
+2021,ATP Cup,True,Australia,Outdoor,Hard,RR,SU55,Denis Shapovalov
+2020,ATP Cup,True,Australia,Outdoor,Hard,QF,SU55,Denis Shapovalov
+2019,ATP Masters 1000 Paris,True,France,Indoor,Hard,F,SU55,Denis Shapovalov
+2019,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,R32,SU55,Denis Shapovalov
+2019,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R32,SU55,Denis Shapovalov
+2019,Australian Open,True,Australia,Outdoor,Hard,R32,SU55,Denis Shapovalov
+2017,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R32,SD32,Gilles Simon
+2016,Australian Open,True,Australia,Outdoor,Hard,R16,SD32,Gilles Simon
+2015,ATP Masters 1000 Paris,True,France,Indoor,Hard,R16,SD32,Gilles Simon
+2014,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R32,SD32,Gilles Simon
+2014,Wimbledon,True,Great Britain,Outdoor,Grass,R32,SD32,Gilles Simon
+2010,SRB vs. FRA DC Final,True,Serbia,Indoor,Hard,RR,SD32,Gilles Simon
+2010,Beijing,True,China,Outdoor,Hard,QF,SD32,Gilles Simon
+2009,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,QF,SD32,Gilles Simon
+2009,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,QF,SD32,Gilles Simon
+2009,Dubai,True,U.A.E.,Outdoor,Hard,SF,SD32,Gilles Simon
+2008,Tennis Masters Cup,True,China,Indoor,Hard,SF,SD32,Gilles Simon
+2008,Marseille,False,France,Indoor,Hard,R16,SD32,Gilles Simon
+2022,Wimbledon,True,Great Britain,Outdoor,Grass,QF,S0AG,Jannik Sinner
+2021,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R32,S0AG,Jannik Sinner
+2015,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R16,SM25,Jack Sock
+2011,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,QF,SA49,Robin Soderling
+2009,ATP Finals,False,Great Britain,Indoor,Hard,RR,SA49,Robin Soderling
+2009,ATP Masters 1000 Paris,True,France,Indoor,Hard,QF,SA49,Robin Soderling
+2009,Beijing,True,China,Outdoor,Hard,SF,SA49,Robin Soderling
+2008,Bangkok,True,Thailand,Indoor,Hard,QF,SA49,Robin Soderling
+2008,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R16,SA49,Robin Soderling
+2007,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R32,SA49,Robin Soderling
+2021,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,SF,SU87,Lorenzo Sonego
+2020,Vienna,False,Austria,Indoor,Hard,QF,SU87,Lorenzo Sonego
+2018,ATP Masters 1000 Paris,True,France,Indoor,Hard,R32,SH90,Joao Sousa
+2018,US Open,True,"NY, U.S.A.",Outdoor,Hard,R16,SH90,Joao Sousa
+2017,Roland Garros,True,France,Outdoor,Clay,R64,SH90,Joao Sousa
+2016,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R32,SH90,Joao Sousa
+2014,Roland Garros,True,France,Outdoor,Clay,R128,SH90,Joao Sousa
+2013,US Open,True,"NY, U.S.A.",Outdoor,Hard,R32,SH90,Joao Sousa
+2017,Doha,True,Qatar,Outdoor,Hard,QF,S694,Radek Stepanek
+2016,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R16,S694,Radek Stepanek
+2014,Wimbledon,True,Great Britain,Outdoor,Grass,R64,S694,Radek Stepanek
+2014,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R32,S694,Radek Stepanek
+2013,SRB vs.CZE DC Final,True,Serbia,Indoor,Hard,RR,S694,Radek Stepanek
+2013,Australian Open,True,Australia,Outdoor,Hard,R32,S694,Radek Stepanek
+2012,Wimbledon,True,Great Britain,Outdoor,Grass,R32,S694,Radek Stepanek
+2011,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R16,S694,Radek Stepanek
+2009,Basel,True,Switzerland,Indoor,Hard,SF,S694,Radek Stepanek
+2009,US Open,True,"NY, U.S.A.",Outdoor,Hard,R16,S694,Radek Stepanek
+2008,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,SF,S694,Radek Stepanek
+2007,US Open,True,"NY, U.S.A.",Outdoor,Hard,R64,S694,Radek Stepanek
+2006,Rotterdam,False,Netherlands,Indoor,Hard,QF,S694,Radek Stepanek
+2006,Zagreb,True,Croatia,Indoor,Carpet,R16,S694,Radek Stepanek
+2021,Davis Cup Finals,True,Spain,Indoor,Hard,RR,SL28,Jan-Lennard Struff
+2021,Tokyo Olympics,True,Japan,Outdoor,Hard,R32,SL28,Jan-Lennard Struff
+2020,US Open,True,"NY, U.S.A.",Outdoor,Hard,R32,SL28,Jan-Lennard Struff
+2020,ATP Masters 1000 Cincinnati,True,"NY, U.S.A.",Outdoor,Hard,QF,SL28,Jan-Lennard Struff
+2020,Australian Open,True,Australia,Outdoor,Hard,R128,SL28,Jan-Lennard Struff
+2019,Roland Garros,True,France,Outdoor,Clay,R16,SL28,Jan-Lennard Struff
+2017,Doha,True,Qatar,Outdoor,Hard,R32,SL28,Jan-Lennard Struff
+2020,Nitto ATP Finals,False,Great Britain,Indoor,Hard,SF,TB69,Dominic Thiem
+2020,Australian Open,True,Australia,Outdoor,Hard,F,TB69,Dominic Thiem
+2019,Nitto ATP Finals,False,Great Britain,Indoor,Hard,RR,TB69,Dominic Thiem
+2019,Roland Garros,False,France,Outdoor,Clay,SF,TB69,Dominic Thiem
+2019,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,SF,TB69,Dominic Thiem
+2018,ATP Masters 1000 Monte Carlo,False,Monaco,Outdoor,Clay,R16,TB69,Dominic Thiem
+2017,Roland Garros,False,France,Outdoor,Clay,QF,TB69,Dominic Thiem
+2017,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,SF,TB69,Dominic Thiem
+2016,ATP Finals,True,Great Britain,Indoor,Hard,RR,TB69,Dominic Thiem
+2016,Roland Garros,True,France,Outdoor,Clay,SF,TB69,Dominic Thiem
+2016,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R16,TB69,Dominic Thiem
+2014,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,R32,TB69,Dominic Thiem
+2012,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,SF,T742,Janko Tipsarevic
+2012,ATP Masters 1000 Madrid,False,Spain,Outdoor,Clay,QF,T742,Janko Tipsarevic
+2012,Dubai,True,U.A.E.,Outdoor,Hard,QF,T742,Janko Tipsarevic
+2011,ATP Finals,False,Great Britain,Indoor,Hard,RR,T742,Janko Tipsarevic
+2011,US Open,True,"NY, U.S.A.",Outdoor,Hard,QF,T742,Janko Tipsarevic
+2011,Belgrade,True,Serbia,Outdoor,Clay,SF,T742,Janko Tipsarevic
+2009,Belgrade,True,Serbia,Outdoor,Clay,R16,T742,Janko Tipsarevic
+2008,London / Queen's Club,True,Great Britain,Outdoor,Grass,R16,T742,Janko Tipsarevic
+2019,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R64,TA46,Bernard Tomic
+2015,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,QF,TA46,Bernard Tomic
+2015,Wimbledon,True,Great Britain,Outdoor,Grass,R32,TA46,Bernard Tomic
+2015,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,QF,TA46,Bernard Tomic
+2012,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R32,TA46,Bernard Tomic
+2012,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R32,TA46,Bernard Tomic
+2011,Wimbledon,True,Great Britain,Outdoor,Grass,QF,TA46,Bernard Tomic
+2013,Dubai,True,U.A.E.,Outdoor,Hard,R32,T840,Viktor Troicki
+2012,Wimbledon,True,Great Britain,Outdoor,Grass,R16,T840,Viktor Troicki
+2012,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R32,T840,Viktor Troicki
+2011,ATP Masters 1000 Paris,True,France,Indoor,Hard,R16,T840,Viktor Troicki
+2011,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R16,T840,Viktor Troicki
+2011,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R16,T840,Viktor Troicki
+2011,Australian Open,True,Australia,Outdoor,Hard,R32,T840,Viktor Troicki
+2010,Basel,True,Switzerland,Indoor,Hard,SF,T840,Viktor Troicki
+2010,US Open,True,"NY, U.S.A.",Outdoor,Hard,R128,T840,Viktor Troicki
+2010,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R32,T840,Viktor Troicki
+2010,Dubai,True,U.A.E.,Outdoor,Hard,R16,T840,Viktor Troicki
+2009,Beijing,True,China,Outdoor,Hard,R16,T840,Viktor Troicki
+2009,Belgrade,True,Serbia,Outdoor,Clay,QF,T840,Viktor Troicki
+2007,Umag,False,Croatia,Outdoor,Clay,R16,T840,Viktor Troicki
+2022,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,F,TE51,Stefanos Tsitsipas
+2021,Roland Garros,True,France,Outdoor,Clay,F,TE51,Stefanos Tsitsipas
+2021,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,QF,TE51,Stefanos Tsitsipas
+2020,Roland Garros,True,France,Outdoor,Clay,SF,TE51,Stefanos Tsitsipas
+2020,Dubai,True,U.A.E.,Outdoor,Hard,F,TE51,Stefanos Tsitsipas
+2019,ATP Masters 1000 Paris,True,France,Indoor,Hard,QF,TE51,Stefanos Tsitsipas
+2019,ATP Masters 1000 Shanghai,False,China,Outdoor,Hard,QF,TE51,Stefanos Tsitsipas
+2019,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,F,TE51,Stefanos Tsitsipas
+2018,ATP Masters 1000 Canada,False,Canada,Outdoor,Hard,R16,TE51,Stefanos Tsitsipas
+2019,Australian Open,True,Australia,Outdoor,Hard,R64,T786,Jo-Wilfried Tsonga
+2016,US Open,True,"NY, U.S.A.",Outdoor,Hard,QF,T786,Jo-Wilfried Tsonga
+2016,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,QF,T786,Jo-Wilfried Tsonga
+2015,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,F,T786,Jo-Wilfried Tsonga
+2014,ATP Masters 1000 Canada,False,Canada,Outdoor,Hard,R16,T786,Jo-Wilfried Tsonga
+2014,Wimbledon,True,Great Britain,Outdoor,Grass,R16,T786,Jo-Wilfried Tsonga
+2014,Roland Garros,True,France,Outdoor,Clay,R16,T786,Jo-Wilfried Tsonga
+2013,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,SF,T786,Jo-Wilfried Tsonga
+2013,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,QF,T786,Jo-Wilfried Tsonga
+2012,ATP Finals,True,Great Britain,Indoor,Hard,RR,T786,Jo-Wilfried Tsonga
+2012,Beijing,True,China,Outdoor,Hard,F,T786,Jo-Wilfried Tsonga
+2012,London Olympics,True,Great Britain,Outdoor,Grass,QF,T786,Jo-Wilfried Tsonga
+2012,Roland Garros,True,France,Outdoor,Clay,QF,T786,Jo-Wilfried Tsonga
+2012,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,QF,T786,Jo-Wilfried Tsonga
+2011,ATP Masters 1000 Paris,False,France,Indoor,Hard,QF,T786,Jo-Wilfried Tsonga
+2011,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,SF,T786,Jo-Wilfried Tsonga
+2011,Wimbledon,True,Great Britain,Outdoor,Grass,SF,T786,Jo-Wilfried Tsonga
+2010,Australian Open,False,Australia,Outdoor,Hard,QF,T786,Jo-Wilfried Tsonga
+2009,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,QF,T786,Jo-Wilfried Tsonga
+2009,Marseille,False,France,Indoor,Hard,SF,T786,Jo-Wilfried Tsonga
+2008,Tennis Masters Cup,False,China,Indoor,Hard,RR,T786,Jo-Wilfried Tsonga
+2008,ATP Masters 1000 Paris,False,France,Indoor,Hard,R16,T786,Jo-Wilfried Tsonga
+2008,Bangkok,False,Thailand,Indoor,Hard,F,T786,Jo-Wilfried Tsonga
+2008,Australian Open,True,Australia,Outdoor,Hard,F,T786,Jo-Wilfried Tsonga
+2022,Dubai,False,U.A.E.,Outdoor,Hard,QF,V708,Jiri Vesely
+2016,US Open,True,"NY, U.S.A.",Outdoor,Hard,R64,V708,Jiri Vesely
+2016,ATP Masters 1000 Monte Carlo,False,Monaco,Outdoor,Clay,R32,V708,Jiri Vesely
+2022,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R16,W367,Stan Wawrinka
+2019,US Open,False,"NY, U.S.A.",Outdoor,Hard,R16,W367,Stan Wawrinka
+2016,US Open,False,"NY, U.S.A.",Outdoor,Hard,F,W367,Stan Wawrinka
+2015,ATP Masters 1000 Paris,True,France,Indoor,Hard,SF,W367,Stan Wawrinka
+2015,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,QF,W367,Stan Wawrinka
+2015,Roland Garros,False,France,Outdoor,Clay,F,W367,Stan Wawrinka
+2015,Australian Open,True,Australia,Outdoor,Hard,SF,W367,Stan Wawrinka
+2014,ATP Finals,True,Great Britain,Indoor,Hard,RR,W367,Stan Wawrinka
+2014,Australian Open,False,Australia,Outdoor,Hard,QF,W367,Stan Wawrinka
+2013,ATP Finals,True,Great Britain,Indoor,Hard,SF,W367,Stan Wawrinka
+2013,ATP Masters 1000 Paris,True,France,Indoor,Hard,QF,W367,Stan Wawrinka
+2013,US Open,True,"NY, U.S.A.",Outdoor,Hard,SF,W367,Stan Wawrinka
+2013,Australian Open,True,Australia,Outdoor,Hard,R16,W367,Stan Wawrinka
+2012,US Open,True,"NY, U.S.A.",Outdoor,Hard,R16,W367,Stan Wawrinka
+2012,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,R16,W367,Stan Wawrinka
+2011,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R16,W367,Stan Wawrinka
+2010,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R16,W367,Stan Wawrinka
+2009,Basel,True,Switzerland,Indoor,Hard,QF,W367,Stan Wawrinka
+2009,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,SF,W367,Stan Wawrinka
+2009,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R16,W367,Stan Wawrinka
+2008,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,F,W367,Stan Wawrinka
+2008,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,QF,W367,Stan Wawrinka
+2007,Vienna,True,Austria,Indoor,Hard,F,W367,Stan Wawrinka
+2006,Vienna,False,Austria,Indoor,Hard,R16,W367,Stan Wawrinka
+2006,SUI v. SCG WG PO,True,Switzerland,Indoor,Hard,RR,W367,Stan Wawrinka
+2006,Umag,False,Croatia,Outdoor,Clay,F,W367,Stan Wawrinka
+2016,US Open,True,"NY, U.S.A.",Outdoor,Hard,R32,Y061,Mikhail Youzhny
+2014,Dubai,True,U.A.E.,Outdoor,Hard,QF,Y061,Mikhail Youzhny
+2013,US Open,True,"NY, U.S.A.",Outdoor,Hard,QF,Y061,Mikhail Youzhny
+2013,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R32,Y061,Mikhail Youzhny
+2010,Dubai,True,U.A.E.,Outdoor,Hard,F,Y061,Mikhail Youzhny
+2010,Rotterdam,False,Netherlands,Indoor,Hard,SF,Y061,Mikhail Youzhny
+2009,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R16,Y061,Mikhail Youzhny
+2008,Beijing Olympics,True,China,Outdoor,Hard,R16,Y061,Mikhail Youzhny
+2007,Rotterdam,False,Netherlands,Indoor,Hard,SF,Y061,Mikhail Youzhny
+2007,Marseille,False,France,Indoor,Hard,R32,Y061,Mikhail Youzhny
+2006,Wimbledon,True,Great Britain,Outdoor,Grass,R32,Y061,Mikhail Youzhny
+2016,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,QF,Z168,Mischa Zverev
+2009,Marseille,True,France,Indoor,Hard,QF,Z168,Mischa Zverev
+2011,ATP Masters 1000 Paris,True,France,Indoor,Hard,R32,D646,Ivan Dodig
+2011,Australian Open,True,Australia,Outdoor,Hard,R64,D646,Ivan Dodig
+2008,Marseille,True,France,Indoor,Hard,R32,D646,Ivan Dodig
+2018,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R64,D801,Alexandr Dolgopolov
+2015,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,SF,D801,Alexandr Dolgopolov
+2015,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R16,D801,Alexandr Dolgopolov
+2013,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R16,D801,Alexandr Dolgopolov
+2012,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R16,D801,Alexandr Dolgopolov
+2011,US Open,True,"NY, U.S.A.",Outdoor,Hard,R16,D801,Alexandr Dolgopolov
+2020,US Open,True,"NY, U.S.A.",Outdoor,Hard,R128,D923,Damir Dzumhur
+2019,Doha,True,Qatar,Outdoor,Hard,R32,D923,Damir Dzumhur
+2018,ATP Masters 1000 Paris,True,France,Indoor,Hard,R16,D923,Damir Dzumhur
+2020,US Open,True,"NY, U.S.A.",Outdoor,Hard,R64,E831,Kyle Edmund
+2019,ATP Masters 1000 Paris,True,France,Indoor,Hard,R16,E831,Kyle Edmund
+2018,Wimbledon,True,Great Britain,Outdoor,Grass,R32,E831,Kyle Edmund
+2018,ATP Masters 1000 Madrid,False,Spain,Outdoor,Clay,R32,E831,Kyle Edmund
+2017,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R64,E831,Kyle Edmund
+2016,US Open,True,"NY, U.S.A.",Outdoor,Hard,R16,E831,Kyle Edmund
+2016,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R64,E831,Kyle Edmund
+2021,ATP Masters 1000 Monte Carlo,False,Monaco,Outdoor,Clay,R16,E687,Daniel Evans
+2020,Australian Open,True,Australia,Outdoor,Hard,SF,F324,Roger Federer
+2019,Nitto ATP Finals,False,Great Britain,Indoor,Hard,RR,F324,Roger Federer
+2019,Wimbledon,True,Great Britain,Outdoor,Grass,F,F324,Roger Federer
+2018,ATP Masters 1000 Paris,True,France,Indoor,Hard,SF,F324,Roger Federer
+2018,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,F,F324,Roger Federer
+2016,Australian Open,True,Australia,Outdoor,Hard,SF,F324,Roger Federer
+2015,ATP Finals,True,Great Britain,Indoor,Hard,F,F324,Roger Federer
+2015,ATP Finals,False,Great Britain,Indoor,Hard,RR,F324,Roger Federer
+2015,US Open,True,"NY, U.S.A.",Outdoor,Hard,F,F324,Roger Federer
+2015,ATP Masters 1000 Cincinnati,False,"OH, U.S.A.",Outdoor,Hard,F,F324,Roger Federer
+2015,Wimbledon,True,Great Britain,Outdoor,Grass,F,F324,Roger Federer
+2015,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,F,F324,Roger Federer
+2015,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,F,F324,Roger Federer
+2015,Dubai,False,U.A.E.,Outdoor,Hard,F,F324,Roger Federer
+2014,ATP Finals,True,Great Britain,Indoor,Hard,F,F324,Roger Federer
+2014,ATP Masters 1000 Shanghai,False,China,Outdoor,Hard,SF,F324,Roger Federer
+2014,Wimbledon,True,Great Britain,Outdoor,Grass,F,F324,Roger Federer
+2014,ATP Masters 1000 Monte Carlo,False,Monaco,Outdoor,Clay,SF,F324,Roger Federer
+2014,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,F,F324,Roger Federer
+2014,Dubai,False,U.A.E.,Outdoor,Hard,SF,F324,Roger Federer
+2013,ATP Finals,True,Great Britain,Indoor,Hard,RR,F324,Roger Federer
+2013,ATP Masters 1000 Paris,True,France,Indoor,Hard,SF,F324,Roger Federer
+2012,ATP Finals,True,Great Britain,Indoor,Hard,F,F324,Roger Federer
+2012,ATP Masters 1000 Cincinnati,False,"OH, U.S.A.",Outdoor,Hard,F,F324,Roger Federer
+2012,Wimbledon,False,Great Britain,Outdoor,Grass,SF,F324,Roger Federer
+2012,Roland Garros,True,France,Outdoor,Clay,SF,F324,Roger Federer
+2012,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,SF,F324,Roger Federer
+2011,US Open,True,"NY, U.S.A.",Outdoor,Hard,SF,F324,Roger Federer
+2011,Roland Garros,False,France,Outdoor,Clay,SF,F324,Roger Federer
+2011,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,SF,F324,Roger Federer
+2011,Dubai,True,U.A.E.,Outdoor,Hard,F,F324,Roger Federer
+2011,Australian Open,True,Australia,Outdoor,Hard,SF,F324,Roger Federer
+2010,ATP Finals,False,Great Britain,Indoor,Hard,SF,F324,Roger Federer
+2010,Basel,False,Switzerland,Indoor,Hard,F,F324,Roger Federer
+2010,ATP Masters 1000 Shanghai,False,China,Outdoor,Hard,SF,F324,Roger Federer
+2010,US Open,True,"NY, U.S.A.",Outdoor,Hard,SF,F324,Roger Federer
+2010,ATP Masters 1000 Canada,False,Canada,Outdoor,Hard,SF,F324,Roger Federer
+2009,Basel,True,Switzerland,Indoor,Hard,F,F324,Roger Federer
+2009,US Open,False,"NY, U.S.A.",Outdoor,Hard,SF,F324,Roger Federer
+2009,ATP Masters 1000 Cincinnati,False,"OH, U.S.A.",Outdoor,Hard,F,F324,Roger Federer
+2009,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,SF,F324,Roger Federer
+2009,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,SF,F324,Roger Federer
+2008,US Open,False,"NY, U.S.A.",Outdoor,Hard,SF,F324,Roger Federer
+2008,ATP Masters 1000 Monte Carlo,False,Monaco,Outdoor,Clay,SF,F324,Roger Federer
+2008,Australian Open,True,Australia,Outdoor,Hard,SF,F324,Roger Federer
+2007,US Open,False,"NY, U.S.A.",Outdoor,Hard,F,F324,Roger Federer
+2007,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,F,F324,Roger Federer
+2007,Dubai,False,U.A.E.,Outdoor,Hard,QF,F324,Roger Federer
+2007,Australian Open,False,Australia,Outdoor,Hard,R16,F324,Roger Federer
+2006,SUI v. SCG WG PO,False,Switzerland,Indoor,Hard,RR,F324,Roger Federer
+2006,ATP Masters 1000 Monte Carlo,False,Monaco,Outdoor,Clay,R64,F324,Roger Federer
+2015,Beijing,True,China,Outdoor,Hard,SF,F401,David Ferrer
+2015,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,SF,F401,David Ferrer
+2015,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,QF,F401,David Ferrer
+2014,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,QF,F401,David Ferrer
+2014,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,QF,F401,David Ferrer
+2013,ATP Masters 1000 Paris,True,France,Indoor,Hard,F,F401,David Ferrer
+2013,Australian Open,True,Australia,Outdoor,Hard,SF,F401,David Ferrer
+2012,US Open,True,"NY, U.S.A.",Outdoor,Hard,SF,F401,David Ferrer
+2012,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,QF,F401,David Ferrer
+2012,Australian Open,True,Australia,Outdoor,Hard,QF,F401,David Ferrer
+2011,ATP Finals,False,Great Britain,Indoor,Hard,RR,F401,David Ferrer
+2011,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,QF,F401,David Ferrer
+2010,Beijing,True,China,Outdoor,Hard,F,F401,David Ferrer
+2009,ESP vs. SRB WG 1st RD,False,Spain,Outdoor,Clay,RR,F401,David Ferrer
+2009,Dubai,True,U.A.E.,Outdoor,Hard,F,F401,David Ferrer
+2008,Australian Open,True,Australia,Outdoor,Hard,QF,F401,David Ferrer
+2007,Tennis Masters Cup,False,China,Indoor,Hard,RR,F401,David Ferrer
+2007,US Open,True,"NY, U.S.A.",Outdoor,Hard,SF,F401,David Ferrer
+2007,ATP Masters 1000 Monte Carlo,False,Monaco,Outdoor,Clay,R16,F401,David Ferrer
+2007,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,QF,F401,David Ferrer
+2004,Bucharest,False,Romania,Outdoor,Clay,R16,F401,David Ferrer
+2011,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,F,F339,Mardy Fish
+2011,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,SF,F339,Mardy Fish
+2010,Beijing,True,China,Outdoor,Hard,R16,F339,Mardy Fish
+2010,US Open,True,"NY, U.S.A.",Outdoor,Hard,R16,F339,Mardy Fish
+2010,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R64,F339,Mardy Fish
+2009,Wimbledon,True,Great Britain,Outdoor,Grass,R32,F339,Mardy Fish
+2008,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,F,F339,Mardy Fish
+2006,US Open,True,"NY, U.S.A.",Outdoor,Hard,R64,F339,Mardy Fish
+2016,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,R32,F510,Fabio Fognini
+2014,Australian Open,True,Australia,Outdoor,Hard,R16,F510,Fabio Fognini
+2013,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,R16,F510,Fabio Fognini
+2013,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,SF,F510,Fabio Fognini
+2013,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R64,F510,Fabio Fognini
+2012,London Olympics,True,Great Britain,Outdoor,Grass,R64,F510,Fabio Fognini
+2011,Roland Garros,True,France,Outdoor,Clay,QF,F510,Fabio Fognini
+2010,Belgrade,True,Serbia,Outdoor,Clay,R16,F510,Fabio Fognini
+2009,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,R32,F510,Fabio Fognini
+2019,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R64,F811,Bjorn Fratangelo
+2016,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R64,F811,Bjorn Fratangelo
+2021,Wimbledon,True,Great Britain,Outdoor,Grass,R64,A678,Kevin Anderson
+2020,ATP Cup,True,Australia,Outdoor,Hard,RR,A678,Kevin Anderson
+2018,Nitto ATP Finals,True,Great Britain,Indoor,Hard,SF,A678,Kevin Anderson
+2018,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,QF,A678,Kevin Anderson
+2018,Laver Cup,False,"IL, U.S.A.",Indoor,Hard,RR,A678,Kevin Anderson
+2018,Wimbledon,True,Great Britain,Outdoor,Grass,F,A678,Kevin Anderson
+2015,Wimbledon,True,Great Britain,Outdoor,Grass,R16,A678,Kevin Anderson
+2012,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R32,A678,Kevin Anderson
+2011,Wimbledon,True,Great Britain,Outdoor,Grass,R64,A678,Kevin Anderson
+2011,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,R32,A678,Kevin Anderson
+2011,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,QF,A678,Kevin Anderson
+2008,ATP Masters 1000 Miami,False,"FL, U.S.A.",Outdoor,Hard,R64,A678,Kevin Anderson
+2015,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R64,B837,Marcos Baghdatis
+2012,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R64,B837,Marcos Baghdatis
+2011,Basel,True,Switzerland,Indoor,Hard,QF,B837,Marcos Baghdatis
+2011,Wimbledon,True,Great Britain,Outdoor,Grass,R32,B837,Marcos Baghdatis
+2010,Dubai,True,U.A.E.,Outdoor,Hard,SF,B837,Marcos Baghdatis
+2009,Australian Open,True,Australia,Outdoor,Hard,R16,B837,Marcos Baghdatis
+2007,Wimbledon,True,Great Britain,Outdoor,Grass,QF,B837,Marcos Baghdatis
+2007,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R16,B837,Marcos Baghdatis
+2021,Australian Open,True,Australia,Outdoor,Hard,R128,CA12,Jeremy Chardy
+2019,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,R16,CA12,Jeremy Chardy
+2018,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,R32,CA12,Jeremy Chardy
+2018,London / Queen's Club,True,Great Britain,Outdoor,Grass,SF,CA12,Jeremy Chardy
+2015,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,SF,CA12,Jeremy Chardy
+2014,Roland Garros,True,France,Outdoor,Clay,R64,CA12,Jeremy Chardy
+2014,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R64,CA12,Jeremy Chardy
+2013,Wimbledon,True,Great Britain,Outdoor,Grass,R32,CA12,Jeremy Chardy
+2011,Wimbledon,True,Great Britain,Outdoor,Grass,R128,CA12,Jeremy Chardy
+2010,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,QF,CA12,Jeremy Chardy
+2010,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R32,CA12,Jeremy Chardy
+2009,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R16,CA12,Jeremy Chardy
+2009,Marseille,True,France,Indoor,Hard,R32,CA12,Jeremy Chardy
+2009,Australian Open,True,Australia,Outdoor,Hard,R64,CA12,Jeremy Chardy
+2021,Davis Cup Finals,True,Spain,Indoor,Hard,SF,C977,Marin Cilic
+2019,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,QF,C977,Marin Cilic
+2018,Nitto ATP Finals,True,Great Britain,Indoor,Hard,RR,C977,Marin Cilic
+2018,ATP Masters 1000 Paris,True,France,Indoor,Hard,QF,C977,Marin Cilic
+2018,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,SF,C977,Marin Cilic
+2018,London / Queen's Club,False,Great Britain,Outdoor,Grass,F,C977,Marin Cilic
+2016,ATP Masters 1000 Paris,False,France,Indoor,Hard,QF,C977,Marin Cilic
+2015,US Open,True,"NY, U.S.A.",Outdoor,Hard,SF,C977,Marin Cilic
+2015,Wimbledon,True,Great Britain,Outdoor,Grass,QF,C977,Marin Cilic
+2015,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,QF,C977,Marin Cilic
+2014,ATP Finals,True,Great Britain,Indoor,Hard,RR,C977,Marin Cilic
+2014,Wimbledon,True,Great Britain,Outdoor,Grass,QF,C977,Marin Cilic
+2014,Roland Garros,True,France,Outdoor,Clay,R32,C977,Marin Cilic
+2014,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R16,C977,Marin Cilic
+2012,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,QF,C977,Marin Cilic
+2011,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R16,C977,Marin Cilic
+2010,CRO vs. SRB WG QF,True,Croatia,Indoor,Hard,RR,C977,Marin Cilic
+2009,Beijing,True,China,Outdoor,Hard,F,C977,Marin Cilic
+2009,Dubai,True,U.A.E.,Outdoor,Hard,QF,C977,Marin Cilic
+2008,US Open,True,"NY, U.S.A.",Outdoor,Hard,R32,C977,Marin Cilic
+2008,Dubai,True,U.A.E.,Outdoor,Hard,R32,C977,Marin Cilic
+2020,Vienna,True,Austria,Indoor,Hard,R16,CG80,Borna Coric
+2018,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,F,CG80,Borna Coric
+2018,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R32,CG80,Borna Coric
+2016,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,R32,CG80,Borna Coric
+2018,ATP Masters 1000 Indian Wells,False,"CA, U.S.A.",Outdoor,Hard,R64,DA81,Taro Daniel
+2022,ATP Masters 1000 Monte Carlo,False,Monaco,Outdoor,Clay,R32,DH50,Alejandro Davidovich Fokina
+2021,Tokyo Olympics,True,Japan,Outdoor,Hard,R16,DH50,Alejandro Davidovich Fokina
+2021,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R16,DH50,Alejandro Davidovich Fokina
+2012,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R16,D402,Nikolay Davydenko
+2011,US Open,True,"NY, U.S.A.",Outdoor,Hard,R32,D402,Nikolay Davydenko
+2011,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R32,D402,Nikolay Davydenko
+2009,ATP Finals,True,Great Britain,Indoor,Hard,RR,D402,Nikolay Davydenko
+2009,ATP Masters 1000 Shanghai,False,China,Outdoor,Hard,SF,D402,Nikolay Davydenko
+2008,Tennis Masters Cup,True,China,Indoor,Hard,F,D402,Nikolay Davydenko
+2008,Tennis Masters Cup,True,China,Indoor,Hard,RR,D402,Nikolay Davydenko
+2008,RUS v. SRB WG 1st RD,False,Russia,Indoor,Hard,RR,D402,Nikolay Davydenko
+2019,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,QF,D683,Juan Martin del Potro
+2018,US Open,True,"NY, U.S.A.",Outdoor,Hard,F,D683,Juan Martin del Potro
+2017,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,QF,D683,Juan Martin del Potro
+2017,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R32,D683,Juan Martin del Potro
+2017,Acapulco,True,Mexico,Outdoor,Hard,R16,D683,Juan Martin del Potro
+2016,Rio Olympics,False,Brazil,Outdoor,Hard,R64,D683,Juan Martin del Potro
+2013,ATP Finals,True,Great Britain,Indoor,Hard,RR,D683,Juan Martin del Potro
+2013,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,F,D683,Juan Martin del Potro
+2013,Wimbledon,True,Great Britain,Outdoor,Grass,SF,D683,Juan Martin del Potro
+2013,ATP Masters 1000 Indian Wells,False,"CA, U.S.A.",Outdoor,Hard,SF,D683,Juan Martin del Potro
+2013,Dubai,True,U.A.E.,Outdoor,Hard,SF,D683,Juan Martin del Potro
+2012,ATP Finals,True,Great Britain,Indoor,Hard,SF,D683,Juan Martin del Potro
+2012,US Open,True,"NY, U.S.A.",Outdoor,Hard,QF,D683,Juan Martin del Potro
+2012,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,SF,D683,Juan Martin del Potro
+2012,London Olympics,False,Great Britain,Outdoor,Grass,Bronze,D683,Juan Martin del Potro
+2011,SRB vs. ARG WG SF,False,Serbia,Indoor,Hard,RR,D683,Juan Martin del Potro
+2011,Roland Garros,True,France,Outdoor,Clay,R32,D683,Juan Martin del Potro
+2009,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,QF,D683,Juan Martin del Potro
+2008,Tennis Masters Cup,True,China,Indoor,Hard,RR,D683,Juan Martin del Potro
+2007,US Open,True,"NY, U.S.A.",Outdoor,Hard,R32,D683,Juan Martin del Potro
+2019,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R32,D874,Federico Delbonis
+2013,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R32,D616,Somdev Devvarman
+2022,ATP Masters 1000 Madrid,False,Spain,Outdoor,Clay,SF,A0E2,Carlos Alcaraz
+2017,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,R32,A479,Nicolas Almagro
+2015,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R32,A479,Nicolas Almagro
+2012,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,QF,A479,Nicolas Almagro
+2011,Australian Open,True,Australia,Outdoor,Hard,R16,A479,Nicolas Almagro
+2012,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R16,A596,Pablo Andujar
+2007,Umag,True,Croatia,Outdoor,Clay,R32,A596,Pablo Andujar
+2022,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,QF,AG37,Felix Auger-Aliassime
+2018,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R64,BE67,Mirza Basic
+2020,ATP Masters 1000 Cincinnati,True,"NY, U.S.A.",Outdoor,Hard,SF,BD06,Roberto Bautista Agut
+2019,Wimbledon,True,Great Britain,Outdoor,Grass,SF,BD06,Roberto Bautista Agut
+2019,ATP Masters 1000 Miami,False,"FL, U.S.A.",Outdoor,Hard,R16,BD06,Roberto Bautista Agut
+2019,Doha,False,Qatar,Outdoor,Hard,SF,BD06,Roberto Bautista Agut
+2018,Roland Garros,True,France,Outdoor,Clay,R32,BD06,Roberto Bautista Agut
+2017,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R16,BD06,Roberto Bautista Agut
+2016,ATP Masters 1000 Shanghai,False,China,Outdoor,Hard,SF,BD06,Roberto Bautista Agut
+2016,Roland Garros,True,France,Outdoor,Clay,R16,BD06,Roberto Bautista Agut
+2016,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,R16,BD06,Roberto Bautista Agut
+2015,US Open,True,"NY, U.S.A.",Outdoor,Hard,R16,BD06,Roberto Bautista Agut
+2014,Dubai,True,U.A.E.,Outdoor,Hard,R16,BD06,Roberto Bautista Agut
+2013,Dubai,True,U.A.E.,Outdoor,Hard,R16,BD06,Roberto Bautista Agut
+2022,Roland Garros,True,France,Outdoor,Clay,R32,BH09,Aljaz Bedene
+2017,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R32,BH09,Aljaz Bedene
+2016,Roland Garros,True,France,Outdoor,Clay,R32,BH09,Aljaz Bedene
+2015,Australian Open,True,Australia,Outdoor,Hard,R128,BH09,Aljaz Bedene
+2016,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R16,BD20,Thomaz Bellucci
+2015,ATP Masters 1000 Paris,True,France,Indoor,Hard,R32,BD20,Thomaz Bellucci
+2015,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R32,BD20,Thomaz Bellucci
+2015,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R16,BD20,Thomaz Bellucci
+2011,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,SF,BD20,Thomaz Bellucci
+2010,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R16,BD20,Thomaz Bellucci
+2014,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,QF,B747,Julien Benneteau
+2012,US Open,True,"NY, U.S.A.",Outdoor,Hard,R32,B747,Julien Benneteau
+2010,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R32,B747,Julien Benneteau
+2009,Wimbledon,True,Great Britain,Outdoor,Grass,R128,B747,Julien Benneteau
+2007,ATP Masters 1000 Hamburg,True,Germany,Outdoor,Clay,R32,B747,Julien Benneteau
+2007,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R16,B747,Julien Benneteau
+2006,ATP Masters 1000 Indian Wells,False,"CA, U.S.A.",Outdoor,Hard,R128,B747,Julien Benneteau
+2021,Roland Garros,True,France,Outdoor,Clay,R32,BE90,Ricardas Berankis
+2020,Roland Garros,True,France,Outdoor,Clay,R64,BE90,Ricardas Berankis
+2020,ATP Masters 1000 Cincinnati,True,"NY, U.S.A.",Outdoor,Hard,R32,BE90,Ricardas Berankis
+2013,US Open,True,"NY, U.S.A.",Outdoor,Hard,R128,BE90,Ricardas Berankis
+2017,Wimbledon,False,Great Britain,Outdoor,Grass,QF,BA47,Tomas Berdych
+2016,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,QF,BA47,Tomas Berdych
+2016,Roland Garros,True,France,Outdoor,Clay,QF,BA47,Tomas Berdych
+2016,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,QF,BA47,Tomas Berdych
+2016,Doha,True,Qatar,Outdoor,Hard,SF,BA47,Tomas Berdych
+2015,ATP Finals,True,Great Britain,Indoor,Hard,RR,BA47,Tomas Berdych
+2015,ATP Masters 1000 Paris,True,France,Indoor,Hard,QF,BA47,Tomas Berdych
+2015,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,F,BA47,Tomas Berdych
+2015,Dubai,True,U.A.E.,Outdoor,Hard,SF,BA47,Tomas Berdych
+2014,ATP Finals,True,Great Britain,Indoor,Hard,RR,BA47,Tomas Berdych
+2014,Beijing,True,China,Outdoor,Hard,F,BA47,Tomas Berdych
+2013,SRB vs.CZE DC Final,True,Serbia,Indoor,Hard,RR,BA47,Tomas Berdych
+2013,Wimbledon,True,Great Britain,Outdoor,Grass,QF,BA47,Tomas Berdych
+2013,ATP Masters 1000 Rome,False,Italy,Outdoor,Clay,QF,BA47,Tomas Berdych
+2013,Dubai,True,U.A.E.,Outdoor,Hard,F,BA47,Tomas Berdych
+2013,Australian Open,True,Australia,Outdoor,Hard,QF,BA47,Tomas Berdych
+2012,ATP Finals,True,Great Britain,Indoor,Hard,RR,BA47,Tomas Berdych
+2012,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,SF,BA47,Tomas Berdych
+2012,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,SF,BA47,Tomas Berdych
+2011,ATP Finals,True,Great Britain,Indoor,Hard,RR,BA47,Tomas Berdych
+2011,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,SF,BA47,Tomas Berdych
+2011,Dubai,True,U.A.E.,Outdoor,Hard,SF,BA47,Tomas Berdych
+2011,Australian Open,True,Australia,Outdoor,Hard,QF,BA47,Tomas Berdych
+2010,ATP Finals,True,Great Britain,Indoor,Hard,RR,BA47,Tomas Berdych
+2010,SRB vs. CZE WG SF,True,Serbia,Indoor,Hard,RR,BA47,Tomas Berdych
+2010,Wimbledon,False,Great Britain,Outdoor,Grass,SF,BA47,Tomas Berdych
+2009,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R16,BA47,Tomas Berdych
+2008,Bangkok,True,Thailand,Indoor,Hard,SF,BA47,Tomas Berdych
+2021,US Open,True,"NY, U.S.A.",Outdoor,Hard,QF,BK40,Matteo Berrettini
+2021,Wimbledon,True,Great Britain,Outdoor,Grass,F,BK40,Matteo Berrettini
+2021,Roland Garros,True,France,Outdoor,Clay,QF,BK40,Matteo Berrettini
+2019,Nitto ATP Finals,True,Great Britain,Indoor,Hard,RR,BK40,Matteo Berrettini
+2011,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R32,B676,James Blake
+2010,US Open,True,"NY, U.S.A.",Outdoor,Hard,R32,B676,James Blake
+2008,Beijing Olympics,True,China,Outdoor,Hard,Bronze,B676,James Blake
+2021,Tokyo Olympics,False,Japan,Outdoor,Hard,Bronze,CD85,Pablo Carreno Busta
+2020,Roland Garros,True,France,Outdoor,Clay,QF,CD85,Pablo Carreno Busta
+2020,US Open,False,"NY, U.S.A.",Outdoor,Hard,R16,CD85,Pablo Carreno Busta
+2019,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R16,CD85,Pablo Carreno Busta
+2017,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R16,CD85,Pablo Carreno Busta
+2014,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R16,CD85,Pablo Carreno Busta
+2020,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R32,CE25,Salvatore Caruso
+2019,Roland Garros,True,France,Outdoor,Clay,R32,CE25,Salvatore Caruso
+2018,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,R16,CF01,Marco Cecchinato
+2018,Roland Garros,False,France,Outdoor,Clay,QF,CF01,Marco Cecchinato
+2021,ATP Masters 1000 Paris,True,France,Indoor,Hard,QF,FB98,Taylor Fritz
+2021,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R32,FB98,Taylor Fritz
+2021,Australian Open,True,Australia,Outdoor,Hard,R32,FB98,Taylor Fritz
+2019,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,R32,FB98,Taylor Fritz
+2019,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R16,FB98,Taylor Fritz
+2021,ATP Masters 1000 Paris,True,France,Indoor,Hard,R32,F724,Marton Fucsovics
+2021,Wimbledon,True,Great Britain,Outdoor,Grass,QF,F724,Marton Fucsovics
+2019,Doha,True,Qatar,Outdoor,Hard,R16,F724,Marton Fucsovics
+2018,US Open,True,"NY, U.S.A.",Outdoor,Hard,R128,F724,Marton Fucsovics
+2014,Beijing,True,China,Outdoor,Hard,R32,G476,Guillermo Garcia-Lopez
+2014,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,QF,G476,Guillermo Garcia-Lopez
+2011,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,R16,G476,Guillermo Garcia-Lopez
+2010,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,QF,G476,Guillermo Garcia-Lopez
+2010,Dubai,True,U.A.E.,Outdoor,Hard,R32,G476,Guillermo Garcia-Lopez
+2007,Estoril,True,Portugal,Outdoor,Clay,QF,G476,Guillermo Garcia-Lopez
+2005,Wimbledon,True,England,Outdoor,Grass,R64,G476,Guillermo Garcia-Lopez
+2021,Wimbledon,True,Great Britain,Outdoor,Grass,R16,GD64,Cristian Garin
+2020,ATP Cup,True,Australia,Outdoor,Hard,RR,GD64,Cristian Garin
+2018,US Open,True,"NY, U.S.A.",Outdoor,Hard,R32,G628,Richard Gasquet
+2015,Wimbledon,True,Great Britain,Outdoor,Grass,SF,G628,Richard Gasquet
+2015,Roland Garros,True,France,Outdoor,Clay,R16,G628,Richard Gasquet
+2013,ATP Finals,True,Great Britain,Indoor,Hard,RR,G628,Richard Gasquet
+2013,Beijing,True,China,Outdoor,Hard,SF,G628,Richard Gasquet
+2013,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,QF,G628,Richard Gasquet
+2012,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,F,G628,Richard Gasquet
+2012,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,R16,G628,Richard Gasquet
+2011,Roland Garros,True,France,Outdoor,Clay,R16,G628,Richard Gasquet
+2011,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,QF,G628,Richard Gasquet
+2010,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,R16,G628,Richard Gasquet
+2007,Tennis Masters Cup,False,China,Indoor,Hard,RR,G628,Richard Gasquet
+2007,Estoril,True,Portugal,Outdoor,Clay,F,G628,Richard Gasquet
+2006,ATP Masters 1000 Madrid,True,Spain,Indoor,Hard,R32,G628,Richard Gasquet
+2012,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,R32,G676,Daniel Gimeno-Traver
+2010,Australian Open,True,Australia,Outdoor,Hard,R128,G676,Daniel Gimeno-Traver
+2006,Barcelona,False,Spain,Outdoor,Clay,R64,G676,Daniel Gimeno-Traver
+2019,Tokyo,True,Japan,Outdoor,Hard,SF,GB88,David Goffin
+2019,Wimbledon,True,Great Britain,Outdoor,Grass,QF,GB88,David Goffin
+2017,ATP Masters 1000 Monte Carlo,False,Monaco,Outdoor,Clay,QF,GB88,David Goffin
+2016,ATP Finals,True,Great Britain,Indoor,Hard,RR,GB88,David Goffin
+2016,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,SF,GB88,David Goffin
+2015,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R16,GB88,David Goffin
+2013,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R16,GB88,David Goffin
+2013,Roland Garros,True,France,Outdoor,Clay,R128,GB88,David Goffin
+2015,Dubai,True,U.A.E.,Outdoor,Hard,R16,G806,Andrey Golubev
+2014,Wimbledon,True,Great Britain,Outdoor,Grass,R128,G806,Andrey Golubev
+2012,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R64,G806,Andrey Golubev
+2011,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R64,G806,Andrey Golubev
+2014,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R32,G892,Alejandro Gonzalez
+2017,Roland Garros,True,France,Outdoor,Clay,R128,G710,Marcel Granollers
+2013,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,R32,G710,Marcel Granollers
+2013,US Open,True,"NY, U.S.A.",Outdoor,Hard,R16,G710,Marcel Granollers
+2011,Australian Open,True,Australia,Outdoor,Hard,R128,G710,Marcel Granollers
+2017,Wimbledon,True,Great Britain,Outdoor,Grass,R32,G858,Ernests Gulbis
+2015,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,QF,G858,Ernests Gulbis
+2014,Roland Garros,True,France,Outdoor,Clay,SF,G858,Ernests Gulbis
+2011,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R32,G858,Ernests Gulbis
+2010,Basel,True,Switzerland,Indoor,Hard,R32,G858,Ernests Gulbis
+2009,Brisbane,False,Australia,Outdoor,Hard,R32,G858,Ernests Gulbis
+2008,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,QF,G858,Ernests Gulbis
+2008,Roland Garros,True,France,Outdoor,Clay,QF,G858,Ernests Gulbis
+2013,Wimbledon,True,Great Britain,Outdoor,Grass,R16,H355,Tommy Haas
+2013,Roland Garros,True,France,Outdoor,Clay,QF,H355,Tommy Haas
+2013,ATP Masters 1000 Miami,False,"FL, U.S.A.",Outdoor,Hard,R16,H355,Tommy Haas
+2012,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,QF,H355,Tommy Haas
+2012,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,QF,H355,Tommy Haas
+2009,Wimbledon,False,Great Britain,Outdoor,Grass,QF,H355,Tommy Haas
+2009,Halle,False,Germany,Outdoor,Grass,F,H355,Tommy Haas
+2009,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,R32,H355,Tommy Haas
+2006,Roland Garros,True,France,Outdoor,Clay,R32,H355,Tommy Haas
+2013,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R32,MA21,Juan Monaco
+2013,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R16,MA21,Juan Monaco
+2012,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R16,MA21,Juan Monaco
+2012,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,SF,MA21,Juan Monaco
+2010,ATP Masters 1000 Paris,True,France,Indoor,Hard,R32,MA21,Juan Monaco
+2009,ATP Masters 1000 Paris,True,France,Indoor,Hard,R32,MA21,Juan Monaco
+2007,US Open,True,"NY, U.S.A.",Outdoor,Hard,R16,MA21,Juan Monaco
+2005,Wimbledon,True,England,Outdoor,Grass,R128,MA21,Juan Monaco
+2022,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,R32,MC65,Gael Monfils
+2021,ATP Masters 1000 Paris,True,France,Indoor,Hard,R16,MC65,Gael Monfils
+2020,Dubai,True,U.A.E.,Outdoor,Hard,SF,MC65,Gael Monfils
+2020,ATP Cup,True,Australia,Outdoor,Hard,RR,MC65,Gael Monfils
+2018,Australian Open,True,Australia,Outdoor,Hard,R64,MC65,Gael Monfils
+2017,Eastbourne,True,Great Britain,Outdoor,Grass,F,MC65,Gael Monfils
+2016,US Open,True,"NY, U.S.A.",Outdoor,Hard,SF,MC65,Gael Monfils
+2016,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,SF,MC65,Gael Monfils
+2014,ATP Masters 1000 Paris,True,France,Indoor,Hard,R16,MC65,Gael Monfils
+2014,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R32,MC65,Gael Monfils
+2013,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,QF,MC65,Gael Monfils
+2011,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,QF,MC65,Gael Monfils
+2011,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,QF,MC65,Gael Monfils
+2010,SRB vs. FRA DC Final,True,Serbia,Indoor,Hard,RR,MC65,Gael Monfils
+2010,US Open,True,"NY, U.S.A.",Outdoor,Hard,QF,MC65,Gael Monfils
+2009,ATP Masters 1000 Paris,True,France,Indoor,Hard,F,MC65,Gael Monfils
+2008,Beijing Olympics,True,China,Outdoor,Hard,QF,MC65,Gael Monfils
+2006,Roland Garros,True,France,Outdoor,Clay,R16,MC65,Gael Monfils
+2005,US Open,True,"NY, U.S.A.",Outdoor,Hard,R128,MC65,Gael Monfils
+2014,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R32,M824,Albert Montanes
+2013,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R32,M824,Albert Montanes
+2010,Wimbledon,True,Great Britain,Outdoor,Grass,R32,M824,Albert Montanes
+2009,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,R32,M824,Albert Montanes
+2009,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R16,M824,Albert Montanes
+2008,ATP Masters 1000 Hamburg,True,Germany,Outdoor,Clay,QF,M824,Albert Montanes
+2019,ATP Masters 1000 Paris,True,France,Indoor,Hard,R32,MW02,Corentin Moutet
+2016,ATP Masters 1000 Paris,True,France,Indoor,Hard,R32,MA30,Gilles Muller
+2016,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R32,MA30,Gilles Muller
+2015,Roland Garros,True,France,Outdoor,Clay,R64,MA30,Gilles Muller
+2015,Australian Open,True,Australia,Outdoor,Hard,R16,MA30,Gilles Muller
+2022,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,R16,MC10,Andy Murray
+2017,Doha,True,Qatar,Outdoor,Hard,F,MC10,Andy Murray
+2016,ATP Finals,False,Great Britain,Indoor,Hard,F,MC10,Andy Murray
+2016,Roland Garros,True,France,Outdoor,Clay,F,MC10,Andy Murray
+2016,ATP Masters 1000 Rome,False,Italy,Outdoor,Clay,F,MC10,Andy Murray
+2016,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,F,MC10,Andy Murray
+2016,Australian Open,True,Australia,Outdoor,Hard,F,MC10,Andy Murray
+2015,ATP Masters 1000 Paris,True,France,Indoor,Hard,F,MC10,Andy Murray
+2015,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,SF,MC10,Andy Murray
+2015,ATP Masters 1000 Canada,False,Canada,Outdoor,Hard,F,MC10,Andy Murray
+2015,Roland Garros,True,France,Outdoor,Clay,SF,MC10,Andy Murray
+2015,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,F,MC10,Andy Murray
+2015,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,SF,MC10,Andy Murray
+2015,Australian Open,True,Australia,Outdoor,Hard,F,MC10,Andy Murray
+2014,ATP Masters 1000 Paris,True,France,Indoor,Hard,QF,MC10,Andy Murray
+2014,Beijing,True,China,Outdoor,Hard,SF,MC10,Andy Murray
+2014,US Open,True,"NY, U.S.A.",Outdoor,Hard,QF,MC10,Andy Murray
+2014,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,QF,MC10,Andy Murray
+2013,Wimbledon,False,Great Britain,Outdoor,Grass,F,MC10,Andy Murray
+2013,Australian Open,True,Australia,Outdoor,Hard,F,MC10,Andy Murray
+2012,ATP Finals,True,Great Britain,Indoor,Hard,RR,MC10,Andy Murray
+2012,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,F,MC10,Andy Murray
+2012,US Open,False,"NY, U.S.A.",Outdoor,Hard,F,MC10,Andy Murray
+2012,London Olympics,False,Great Britain,Outdoor,Grass,SF,MC10,Andy Murray
+2012,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,F,MC10,Andy Murray
+2012,Dubai,False,U.A.E.,Outdoor,Hard,SF,MC10,Andy Murray
+2012,Australian Open,True,Australia,Outdoor,Hard,SF,MC10,Andy Murray
+2011,ATP Masters 1000 Cincinnati,False,"OH, U.S.A.",Outdoor,Hard,F,MC10,Andy Murray
+2011,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,SF,MC10,Andy Murray
+2011,Australian Open,True,Australia,Outdoor,Hard,F,MC10,Andy Murray
+2009,ATP Masters 1000 Miami,False,"FL, U.S.A.",Outdoor,Hard,F,MC10,Andy Murray
+2008,ATP Masters 1000 Cincinnati,False,"OH, U.S.A.",Outdoor,Hard,F,MC10,Andy Murray
+2008,ATP Masters 1000 Canada,False,Canada,Outdoor,Hard,QF,MC10,Andy Murray
+2008,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,R16,MC10,Andy Murray
+2007,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,SF,MC10,Andy Murray
+2007,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,SF,MC10,Andy Murray
+2006,ATP Masters 1000 Madrid,True,Spain,Indoor,Hard,R16,MC10,Andy Murray
+2022,Dubai,True,U.A.E.,Outdoor,Hard,R32,M0EJ,Lorenzo Musetti
+2021,Roland Garros,True,France,Outdoor,Clay,R16,M0EJ,Lorenzo Musetti
+2022,Roland Garros,False,France,Outdoor,Clay,QF,N409,Rafael Nadal
+2021,Roland Garros,True,France,Outdoor,Clay,SF,N409,Rafael Nadal
+2021,ATP Masters 1000 Rome,False,Italy,Outdoor,Clay,F,N409,Rafael Nadal
+2020,Roland Garros,False,France,Outdoor,Clay,F,N409,Rafael Nadal
+2020,ATP Cup,True,Australia,Outdoor,Hard,F,N409,Rafael Nadal
+2019,ATP Masters 1000 Rome,False,Italy,Outdoor,Clay,F,N409,Rafael Nadal
+2019,Australian Open,True,Australia,Outdoor,Hard,F,N409,Rafael Nadal
+2018,Wimbledon,True,Great Britain,Outdoor,Grass,SF,N409,Rafael Nadal
+2018,ATP Masters 1000 Rome,False,Italy,Outdoor,Clay,SF,N409,Rafael Nadal
+2017,ATP Masters 1000 Madrid,False,Spain,Outdoor,Clay,SF,N409,Rafael Nadal
+2016,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,QF,N409,Rafael Nadal
+2016,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,SF,N409,Rafael Nadal
+2016,Doha,True,Qatar,Outdoor,Hard,F,N409,Rafael Nadal
+2015,ATP Finals,True,Great Britain,Indoor,Hard,SF,N409,Rafael Nadal
+2015,Beijing,True,China,Outdoor,Hard,F,N409,Rafael Nadal
+2015,Roland Garros,True,France,Outdoor,Clay,QF,N409,Rafael Nadal
+2015,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,SF,N409,Rafael Nadal
+2014,Roland Garros,False,France,Outdoor,Clay,F,N409,Rafael Nadal
+2014,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,F,N409,Rafael Nadal
+2014,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,F,N409,Rafael Nadal
+2013,ATP Finals,True,Great Britain,Indoor,Hard,F,N409,Rafael Nadal
+2013,Beijing,True,China,Outdoor,Hard,F,N409,Rafael Nadal
+2013,US Open,False,"NY, U.S.A.",Outdoor,Hard,F,N409,Rafael Nadal
+2013,ATP Masters 1000 Canada,False,Canada,Outdoor,Hard,SF,N409,Rafael Nadal
+2013,Roland Garros,False,France,Outdoor,Clay,SF,N409,Rafael Nadal
+2013,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,F,N409,Rafael Nadal
+2012,Roland Garros,False,France,Outdoor,Clay,F,N409,Rafael Nadal
+2012,ATP Masters 1000 Rome,False,Italy,Outdoor,Clay,F,N409,Rafael Nadal
+2012,ATP Masters 1000 Monte Carlo,False,Monaco,Outdoor,Clay,F,N409,Rafael Nadal
+2012,Australian Open,True,Australia,Outdoor,Hard,F,N409,Rafael Nadal
+2011,US Open,True,"NY, U.S.A.",Outdoor,Hard,F,N409,Rafael Nadal
+2011,Wimbledon,True,Great Britain,Outdoor,Grass,F,N409,Rafael Nadal
+2011,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,F,N409,Rafael Nadal
+2011,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,F,N409,Rafael Nadal
+2011,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,F,N409,Rafael Nadal
+2011,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,F,N409,Rafael Nadal
+2010,ATP Finals,False,Great Britain,Indoor,Hard,RR,N409,Rafael Nadal
+2010,US Open,False,"NY, U.S.A.",Outdoor,Hard,F,N409,Rafael Nadal
+2009,ATP Finals,True,Great Britain,Indoor,Hard,RR,N409,Rafael Nadal
+2009,ATP Masters 1000 Paris,True,France,Indoor,Hard,SF,N409,Rafael Nadal
+2009,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,SF,N409,Rafael Nadal
+2009,ATP Masters 1000 Madrid,False,Spain,Outdoor,Clay,SF,N409,Rafael Nadal
+2009,ATP Masters 1000 Rome,False,Italy,Outdoor,Clay,F,N409,Rafael Nadal
+2009,ATP Masters 1000 Monte Carlo,False,Monaco,Outdoor,Clay,F,N409,Rafael Nadal
+2009,ESP vs. SRB WG 1st RD,False,Spain,Outdoor,Clay,RR,N409,Rafael Nadal
+2008,Beijing Olympics,False,China,Outdoor,Hard,SF,N409,Rafael Nadal
+2008,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,SF,N409,Rafael Nadal
+2008,London / Queen's Club,False,Great Britain,Outdoor,Grass,F,N409,Rafael Nadal
+2008,Roland Garros,False,France,Outdoor,Clay,SF,N409,Rafael Nadal
+2008,ATP Masters 1000 Hamburg,False,Germany,Outdoor,Clay,SF,N409,Rafael Nadal
+2008,ATP Masters 1000 Indian Wells,True,"CA, U.S.A.",Outdoor,Hard,SF,N409,Rafael Nadal
+2007,Tennis Masters Cup,False,China,Indoor,Hard,RR,N409,Rafael Nadal
+2007,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,SF,N409,Rafael Nadal
+2007,Wimbledon,False,Great Britain,Outdoor,Grass,SF,N409,Rafael Nadal
+2007,Roland Garros,False,France,Outdoor,Clay,SF,N409,Rafael Nadal
+2007,ATP Masters 1000 Rome,False,Italy,Outdoor,Clay,QF,N409,Rafael Nadal
+2007,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,QF,N409,Rafael Nadal
+2007,ATP Masters 1000 Indian Wells,False,"CA, U.S.A.",Outdoor,Hard,F,N409,Rafael Nadal
+2006,Roland Garros,False,France,Outdoor,Clay,QF,N409,Rafael Nadal
+2015,Wimbledon,True,Great Britain,Outdoor,Grass,R64,N289,Jarkko Nieminen
+2015,Roland Garros,True,France,Outdoor,Clay,R128,N289,Jarkko Nieminen
+2013,ATP Masters 1000 Monte Carlo,True,Monaco,Outdoor,Clay,QF,N289,Jarkko Nieminen
+2010,Basel,True,Switzerland,Indoor,Hard,R16,N289,Jarkko Nieminen
+2009,Sydney,False,Australia,Outdoor,Hard,SF,N289,Jarkko Nieminen
+2007,ATP Masters 1000 Hamburg,True,Germany,Outdoor,Clay,R16,N289,Jarkko Nieminen
+2006,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R64,N289,Jarkko Nieminen
+2021,US Open,True,"NY, U.S.A.",Outdoor,Hard,R32,N552,Kei Nishikori
+2021,Tokyo Olympics,True,Japan,Outdoor,Hard,QF,N552,Kei Nishikori
+2019,Australian Open,True,Australia,Outdoor,Hard,QF,N552,Kei Nishikori
+2018,US Open,True,"NY, U.S.A.",Outdoor,Hard,SF,N552,Kei Nishikori
+2018,Wimbledon,True,Great Britain,Outdoor,Grass,QF,N552,Kei Nishikori
+2018,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,QF,N552,Kei Nishikori
+2018,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,R64,N552,Kei Nishikori
+2017,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,QF,N552,Kei Nishikori
+2016,ATP Finals,True,Great Britain,Indoor,Hard,SF,N552,Kei Nishikori
+2016,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,F,N552,Kei Nishikori
+2016,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,SF,N552,Kei Nishikori
+2016,ATP Masters 1000 Madrid,True,Spain,Outdoor,Clay,SF,N552,Kei Nishikori
+2016,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,F,N552,Kei Nishikori
+2016,Australian Open,True,Australia,Outdoor,Hard,QF,N552,Kei Nishikori
+2015,ATP Finals,True,Great Britain,Indoor,Hard,RR,N552,Kei Nishikori
+2015,ATP Masters 1000 Rome,True,Italy,Outdoor,Clay,QF,N552,Kei Nishikori
+2014,ATP Finals,True,Great Britain,Indoor,Hard,SF,N552,Kei Nishikori
+2014,ATP Masters 1000 Paris,True,France,Indoor,Hard,SF,N552,Kei Nishikori
+2014,US Open,False,"NY, U.S.A.",Outdoor,Hard,SF,N552,Kei Nishikori
+2014,ATP Masters 1000 Miami,True,"FL, U.S.A.",Outdoor,Hard,SF,N552,Kei Nishikori
+2011,Basel,False,Switzerland,Indoor,Hard,SF,N552,Kei Nishikori
+2010,Roland Garros,True,France,Outdoor,Clay,R64,N552,Kei Nishikori
+2022,Wimbledon,True,Great Britain,Outdoor,Grass,SF,N771,Cameron Norrie
+2021,Nitto ATP Finals,True,Italy,Indoor,Hard,RR,N771,Cameron Norrie
+2019,Davis Cup Finals,True,Spain,Indoor,Hard,RR,PD31,Benoit Paire
+2018,ATP Masters 1000 Miami,False,"FL, U.S.A.",Outdoor,Hard,R64,PD31,Benoit Paire
+2015,ATP Masters 1000 Cincinnati,True,"OH, U.S.A.",Outdoor,Hard,R32,PD31,Benoit Paire
+2018,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R32,PB22,Peter Polansky
+2009,ATP Masters 1000 Canada,True,Canada,Outdoor,Hard,R32,PB22,Peter Polansky
+2017,Eastbourne,True,Great Britain,Outdoor,Grass,R16,PD07,Vasek Pospisil
+2016,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,R16,PD07,Vasek Pospisil
+2015,Dubai,True,U.A.E.,Outdoor,Hard,R32,PD07,Vasek Pospisil
+2014,Beijing,True,China,Outdoor,Hard,R16,PD07,Vasek Pospisil
+2013,SRB vs.CAN WG SF,True,Serbia,Indoor,Clay,RR,PD07,Vasek Pospisil
+2021,Nitto ATP Finals,False,Italy,Indoor,Hard,SF,Z355,Alexander Zverev
+2021,US Open,True,"NY, U.S.A.",Outdoor,Hard,SF,Z355,Alexander Zverev
+2021,Tokyo Olympics,False,Japan,Outdoor,Hard,SF,Z355,Alexander Zverev
+2021,ATP Cup,True,Australia,Outdoor,Hard,RR,Z355,Alexander Zverev
+2021,Australian Open,True,Australia,Outdoor,Hard,QF,Z355,Alexander Zverev
+2020,Nitto ATP Finals,True,Great Britain,Indoor,Hard,RR,Z355,Alexander Zverev
+2019,Roland Garros,True,France,Outdoor,Clay,QF,Z355,Alexander Zverev
+2018,Nitto ATP Finals,False,Great Britain,Indoor,Hard,F,Z355,Alexander Zverev
+2018,Nitto ATP Finals,True,Great Britain,Indoor,Hard,RR,Z355,Alexander Zverev
+2018,ATP Masters 1000 Shanghai,True,China,Outdoor,Hard,SF,Z355,Alexander Zverev
+2017,ATP Masters 1000 Rome,False,Italy,Outdoor,Clay,F,Z355,Alexander Zverev
